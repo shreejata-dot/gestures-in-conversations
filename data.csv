@@ -1,0 +1,1283 @@
+﻿CID;child hand;child head;child body;child_gesture type;child vocal;child_speech;AID;adult hand;adult head;adult body;adult_gesture type;adult vocal;adult_speech
+C1;;;;;;;A1;;HdA;;NR;narration: sentence;sentence
+C1;;;;;;;A1;;HdA;;CO;"negation: ""non""";word
+C1;;;;;;;A1;;HdA;;NR;reflecting: sentence;sentence
+C1;;;;;;;A1;;HdA;;NR;clarification: sentence;
+C1;;;;;;;A1;;HdA;;CO;confirmation: no sppech+ laughter;no speech
+C1;;;;;;;A1;;HdA;;NR;"affirmation: ""oui! bravo!""";word
+C1;;;;;;;A1;;HdA;;NR;affirmation: no speech+ laughter;no speech
+C1;;;;;;;A1;;HdA;;CO;confirmation: no speech;no speech
+C1;;;;;;;A1;;HdA;;NR;question: sentence;sentence
+C1;;;;;;;A1;;HdA;;CO;"confirmation: no speech""";no speech
+C1;;;;;;;A1;;HdA;;NR;confirmation: sentence;sentence
+C1;;;;;;;A1;;HdA;;NR;clarification: sentence;sentence
+C1;;HdC;;CO;"affirmation: ""ouais""";word;A1;;;;;;
+C1;;;;;;;A1;;HdA;;NR;clarification: sentence;sentence
+C1;;;;;;;A1;;HdA;;CO;affirmation: no speech;no speech
+C1;;;;;;;A1;;HdA;;CO;affirmation: no speech;no speech
+C1;;;;;;;A1;;HdA;;NR;turn giving: end of sentenece;end
+C1;;HdC;;CO;"affirmation: ""oui"" + laughter";word;A1;;;;;;
+C1;;;;;;;A1;;HdA;;CO;confirmation: no speech+ laughter;no speech
+C1;;;;;;;A1;;HdA;;CO;"negation: ""non, pas du tout""";word
+C1;;;;;;;A1;;HdA;;CO;"negation: ""non, pas dutout""";word
+C1;;;;;;;A1;;HdA;;CO;"affirmation: ""oui""";word
+C1;;;;;;;A1;;HdA;;CO;affirmation: no speech;no speech
+C1;;;;;;;A1;;HdA;;CO;affirmation: no speech;no speech
+C1;;HdC;;CO;question: sentence;sentence;A1;;;;;;
+C1;;;;;;;A1;;HdA;;NR;clarification: sentence;sentence
+C1;;;;;;;A1;;HdA;;NR;reflecting: no speech;no speech
+C1;;;;;;;A1;;HdA;;NR;reflecting: no speech;no speech
+C1;;;;;;;A1;;HdA;;NR;reciprocation: no speech;no speech
+C1;;HdC;;NR;reflecting: no speech;no speech;A1;;;;;;
+C1;;;;;;;A1;;HdA;;NR;reflecting: no speech;no speech
+C1;;;;;;;A1;;HdA;;CO;"affirmation: ""oui""";word
+C1;;;;;;;A1;;HdA;;CO;"affirmation: ""oui""";word
+C1;;;;;;;A1;;HdA;;NR;reflecting: no speech;no speech
+C1;;;;;;;A1;;HdA;;CO;"affirmation: ""ah oui""";word
+C1;;;;;;;A1;;HdA;;CO;"affirmation: ""oui""";word
+C1;;HdC;;CO;"affirmation: ""oui, d'accord""";word;A1;;;;;;
+C1;;HdC;;CO;affirmation: no speech;no speech;A1;;;;;;
+C1;;HdC;;CO;"negation: ""non"" + laughter";word;A1;;;;;;
+C1;;HdC;;CO;"affirmation: ""oui""+ laughter";word;A1;;;;;;
+C1;;;;;;;A1;;HdA;;CO;"negation: ""non""";word
+C1;;;;;;;A1;;HdA;;NR;clarification: sentence;sentence
+C1;;;;;;;A1;;HdA;;CO;confirmation: no speech;no speech
+C1;;;;;;;A1;;HdA;;NR;"negation: ""non""";word
+C1;;HdC;;NR;mockery: no speech;no speech;A1;;;;;;
+C1;;;;;;;A1;;HdA;;CO;"affirmation: ""oui""";word
+C1;;;;;;;A1;;HdA;;NR;reflecting: no speech;no speech
+C1;;HdC;;NR;negation: no speech;no speech;A1;;;;;;
+C1;;HdC;;CO;"negation: ""non""";word;A1;;;;;;
+C1;;HdC;;CO;anticipation: another sentence;other;A1;;;;;;
+C1;;;;;;;A1;;HdA;;CO;"negation: ""non, pas du tout""";word
+C1;;;;;;;A1;;HdA;;NR;reflecting: sentence;sentence
+C1;;;;;;;A1;;HdA;;NR;clarification: sentence;sentence
+C1;;;;;;;A1;;HdA;;NR;clarification: sentence;sentence
+C1;;HdC;;CO;negation: another sentence;other;A1;;;;;;
+C1;;;;;;;A1;;HdA;;NR;"clarification: ""uh""";vocal
+C1;;HdC;;CO;negation: another sentence;other;A1;;;;;;
+C1;;;;;;;A1;;HdA;;NR;"clarification: ""ah oui""";word
+C1;;;;;;;A1;;HdA;;CO;"negation: ""non""";word
+C1;;;;;;;A1;;HdA;;NR;reciprocation: no speech;no speech
+C1;;HdC;;NR;clarification: sentence;sentence;A1;;;;;;
+C1;;;;;;;A1;;HdA;;CO;"negation: ""non""";word
+C1;;;;;;;A1;;HdA;;NR;clarification: sentence;sentence
+C1;;;;;;;A1;;HdA;;NR;clarification: sentence;sentence
+C1;;;;;;;A1;;HdA;;CO;"affirmation: ""oui""";word
+C1;;;;;;;A1;;HdA;;CO;"negation: ""non""";word
+C1;;;;;;;A1;;HdA;;CO;"negation: ""ah non""";word
+C1;;;;;;;A1;;HdA;;NR;clarification: sentence;sentence
+C1;;;;;;;A1;;HdA;;CO;"affirmation: ""oui""";word
+C1;;;;;;;A1;;HdA;;CO;"affirmation: ""oui""";word
+C1;;;;;;;A1;;HdA;;CO;"negation: ""non""";word
+C1;;;;;;;A1;;HdA;;CO;"affirmation: ""tout √† fait""";word
+C1;;;;;;;A1;;HdA;;CO;confirmation: another sentence;other
+C1;HC;;;NR;exclamation+laughter;no speech;A1;;;;;;
+C1;;;;;;;A1;;HdA;;CO;confirmation: no speech;no speech
+C1;;;;;;;A1;;HdA;;NR;confirmation: no speech;no speech
+C1;HC;;;CO;describe action: no speech;no speech;A1;;;;;;
+C1;;;;;;;A1;;HdA;;NR;"confirmation: ""voil√†""";word
+C1;;;;;;;A1;;HdA;;CO;confirmation: no speech;no speech
+C1;HC;;;NR;question: sentence;sentence;A1;;;;;;
+C1;;;;;;;A1;;HdA;;CO;"affirmation: ""aah""";word
+C1;HC;;;NR;"negation: ""no""";word;A1;;;;;;
+C1;HC;;;NR;"negation: ""no""";word;A1;;;;;;
+C1;;;;NR;"reflecting: ""mmmm""";vocal;A1;;;;;;
+C1;HC;;;;;;A1;;;;;;
+C1;;HdC;;CO;"affirmative: ""oui""";word;A1;;;;;;
+C1;HC;;;NR;"negation: ""non"" = laughter";word;A1;;;;;;
+C1;HC;;;NR;"negation: ""non""";word;A1;;;;;;
+C1;;HdC;;CO;negation: no speech;no speech;A1;;;;;;
+C1;;HdC;;NR;reflecting : no speech;no speech;A1;;;;;;
+C1;;HdC;;CO;negation: no speech;no speech;A1;;;;;;
+C1;;HdC;;NR;clarification: sentence;sentence;A1;;;;;;
+C1;HC;;;NR;clarification: sentence;sentence;A1;;;;;;
+C1;;;;NR;turn giving: end of sentence;end;A1;;;;;;
+C1;HC;;;;;;A1;;;;;;
+C1;;HdC;;CO;negation: end of sentence;end;A1;;;;;;
+C1;HC;;;NR;laughter: no speech;no speech;A1;;;;;;
+C1;;;;;;;A1;;HdA;;NR;confirmation: sentence;sentence
+C1;HC;;;NR;n: sentence;sentence;A1;;;;;;
+C1;;;;;;;A1;;HdA;;NR;confirmation: sentence;sentence
+C1;HC;;;NR;laughter: no speech;no speech;A1;;;;;;
+C1;;;;;;;A1;;HdA;;NR;confirmation: sentnece;sentence
+C1;;HdC;;NR;sentence;sentence;A1;;;;;;
+C1;;HdC;;NR;narrration: sentence;sentence;A1;;;;;;
+C1;;;;;;;A1;;HdA;;NR;negation: sentence;sentence
+C1;;;BC;;;;A1;;;;;;
+C1;;;;NR;;;A1;;;;;;
+C1;;;;;reflecting: no speech;no speech;A1;;;;;;
+C1;;HdC;;;;;A1;;;;;;
+C1;;;;;negation: no speech;no speech;A1;;;;;;
+C1;HC;;;NR;;;A1;;;;;;
+C1;;;;;negation: no speech;no speech;A1;;;;;;
+C1;;;;;;;A1;;HdA;;CO;"confirmation: ""okay""";word
+C1;;;;;;;A1;;;;;confirmation: sentence;sentence
+C1;;;;;;;A1;; HdA;;NR;;
+C1;;;;;;;A1;;HdA;;NR;confirmation: sentence;sentence
+C1;HC;;;NR;laughter: no speech;no speech;A1;;;;;;
+C1;;;;;;;A1;;HdA;;NR;negation: sentence;sentence
+C1;;;;;;;A1;;HdA;;CO;"affirmation: ""ouais""";word
+C1;;;;;;;A1;;HdA;;NR;giving turn: end of sentence;end
+C1;;HdC;;NR;negotiation: sentence;sentence;A1;;;;;;
+C1;;;;;;;A1;;HdA;;CO;"affirmation: ""vas y""";word
+C1;;;;;;;A1;;HdA;;NR;confirmation: no speech;no speech
+C1;HC;;;I;"place holder for a country: ""pr√®s d'ici quoi""";word;A1;;;;;;
+C1;;;;;;;A1;;HdA;;NR;confirmation: no speech;no speech
+C1;;;;;;;A1;;HdA;;NR;negation: sentence;sentence
+C1;;;;;;;A1;;HdA;;CO;"affirmation: ""oui""";word
+C1;;;;;;;A1;;HdA;;NR;confirmation: sentence;sentence
+C1;;;;;;;A1;;HdA;;CO;"affirmation: ""oui""";word
+C1;;;;;;;A1;;HdA;;NR;reflecting: no speech;no speech
+C1;;;;;;;A1;;HdA;;NR;reflecting: no speech;no speech
+C1;;;;;;;A1;;HdA;;CO;"negation: ""non""";word
+C1;;;;;;;A1;;HdA;;CO;"negation: ""pas du tout""";word
+C1;;;;;;;A1;;HdA;;CO;"negation: ""pas du tout""";word
+C1;;;;;;;A1;;HdA;;NR;confirmation: sentence;sentence
+C1;;;;;;;A1;;HdA;;CO;"negation: ""non""";word
+C1;;;;;;;A1;;HdA;;NR;reflecting: sentence;sentence
+C1;;;;;;;A1;;HdA;;CO;negation: sentnece;sentence
+C1;;;;;;;A1;;HdA;;NR;confirmation: sentence;sentence
+C1;;;;;;;A1;;HdA;;NR;confirmation: sentence;sentence
+C1;;;;;;;A1;;HdA;;NR;confirmation: sentence;sentence
+C1;;;;;;;A1;;HdA;;CO;"affirmation: ""ah oui""";word
+C1;;;;;;;A1;;HdA;;CO;"affirmation: ""tout √† fait""";word
+C1;;;;;;;A1;;HdA;;CO;"affirmation: ""oui""";word
+C1;;;;;;;A1;;HdA;;NR;confirmation: sentence;sentence
+C1;HC;;;I;"place holder for a ountry: ""un pays""";word;A1;;;;;;
+C1;;;;;;;A1;;HdA;;NR;reflecting: sentence;sentence
+C1;;;;;;;A1;HA;;;I;"description: ""pays, c'est pas vraiment...""";word
+C1;;;;;;;A1;HA;;;NR;narration: sentence;sentence
+C1;;;;;;;A1;HA;;;I;"describe action: ""touch√©""";word
+C1;;;;;;;A1;;HdA;;NR;n: sentence;sentence
+C1;;;;;;;A1;HA;;;NR;question: sentence;sentence
+C1;;;;;;;A1;;HdA;;CO;"affirmation: ""oui""";word
+C1;;;;;;;A1;HA;;;;;
+C1;;;;;;;A1;;;;NR;clarification: sentence;sentence
+C1;;HdC;;NR;narration: sentence;sentence;A1;;;;;;
+C1;;HdC;;CO;"confirmation: ""oui""";word;A1;;;;;;
+C1;;HdC;;CO;"negation: ""mmm non""";word;A1;;;;;;
+C1;;;;;;;A1;;HdA;;NR;reflecting: no speech;no speech
+C1;;HdC;;CO;"negation: ""non""";word;A1;;;;;;
+C1;;HdC;;CO;"negation: ""non""";word;A1;;;;;;
+C1;;;;;;;A1;;HdA;;NR;reflecting: sentence;sentence
+C1;;HdC;;CO;"negation: ""non""";word;A1;;;;;;
+C1;;HdC;;CO;"negation: ""non""";word;A1;;;;;;
+C1;;;;;;;A1;;HdA;;CO;negation: another sentence;other
+C1;;HdC;;CO;negation: another sentence;other;A1;;HdA;;CO;"affirmation: ""oui""";word
+C1;;HdC;;CO;"negation: ""non""";word;A1;;HdA;;NR;clarification: sentence;sentence
+C1;;HdC;;CO;"negation: ""no"" + sentence";word;A1;;;;;;
+C1;;HdC;;CO;affirmation: no speech;no speech;A1;;;;;;
+C1;;HdC;;CO;affirmation: no speech;no speech;A1;;;;;;
+C1;;;;;;;A1;HA;;;NR;suggestion: sentence;sentence
+C1;;HdC;;CO;"affirmation: ""oui"" + sentence";word;A1;;;;;;
+C1;;HdC;;CO;"confirmation: ""oui ah oui oui oui""";word;A1;;;;;;
+C1;;;;;;;A1;;HdA;;CO;"confirmation: ""oui""";word
+C1;;HdC;;CO;"affirmation: ""oui""";word;A1;;;;;;
+C1;;;;;;;A1;;HdA;;CO;confirmation: no speech;no speech
+C1;;;BC;NR;clarification: no speech;no speech;A1;;;;;;
+C1;;;;;;;A1;;HdA;;NR;confirmation: sentence;sentence
+C1;;HdC;;CO;"negation: ""non""+ laughter";word;A1;;;;;;
+C1;;HdC;;CO;"negation: ""ben oooi""";word;A1;;;;;;
+C1;;HdC;;CO;"affirmation: ""oui""";word;A1;;;;;;
+C1;;;;;;;A1;;HdA;;NR;confirmation: sentence;sentence
+C1;;HdC;;NR;refleting: no speech;no speech;A1;;;;;;
+C1;;;;;;;A1;;HdA;;NR;confirmation: no speech;no speech
+C1;;HdC;;NR;clarification: sentence;sentence;A1;;;;;;
+C1;HC;;;I;"describe object: ""comme √ßa, comme √ßa""";word;A1;;;;;;
+C1;;HdC;;CO;"negation: ""non""";no speech;A1;;;;;;
+C1;HC;;;CO;"describe action: ""attends""";;A1;;;;;;
+C1;HC;;;;;;A1;;;;;;
+C1;;;;D;"response: ""si""";word;A1;;;;;;
+C1;;;;NR;"clarification: ""pas en vrai""";sentence;A1;;;;;;
+C1;HC;;;;;;A1;;;;;;
+C1;;;;;;;A1;;HdA;;NR;reflecting: sentence;sentence
+C1;HC;;;NR;"negation: ""non, mais ...""";word;A1;;;;;;
+C1;;;;;;;A1;;HdA;;NR;confirmation: sentence;sentence
+C1;HC;;BC;NR;"clarification; alors que...";sentence;A1;;;;;;
+C1;;;;;;;A1;;HdA;;NR;confirmation: sentence;sentence
+C1;;;;;;;A1;;HdA;;NR;confirmation: sentence;sentence
+C1;;HdC;;CO;negation: no speech;no speech;A1;;;;;;
+C1;;HdC;;CO;"negation: ""no""";word;A1;;;;;;
+C1;;HdC;;CO;"negation: ""pas du tout""";word;A1;;;;;;
+C1;;;;;;;A1;;HdA;;CO;negation: no speech;no speech
+C1;;;;;;;A1;;HdA;;CO;"affirmation: 'ouais""";word
+C1;;;;;;;A1;;HdA;;NR;"confirmation: ""indice""";word
+C1;;;;;;;A1;;HdA;;NR;confirmation: sentence;sentence
+C1;;;;;;;A1;;HdA;;NR;suggestion: no speech;no speech
+C1;;;;;;;A1;HA;;;D;suggestion: no speech;no speech
+C1;;;;;;;A1;;HdA;;NR;suggestion: sentence;sentence
+C1;;;;;;;A1;HA;;;NR;realisation: sentence;sentence
+C1;;HdC;;CO;"affirmation: ""oui""";word;A1;;;;;;
+C1;;;;;;;A1;;HdA;;CO;confirmation: no speech;no speech
+C1;;;;;;;A1;;;;;;
+C1;;;;;;;A1;;HdA;;NR;clarification: sentence;sentence
+C1;;;;;;;A1;HA;;;D;"share attention: ""√ßa""";word
+C1;;HdC;;CO;"negation: ""no""";word;A1;;;;;;
+C1;;HdC;;CO;"negation: ""pas du tout""";word;A1;;;;;;
+C1;;;;;;;A1;;;;;;
+C1;;;;;;;A1;;;;;;
+C1;;;;;;;A1;;;;;;
+C1;;;;;;;A1;;;;;;
+C1;;;;;;;A1;;;;;;
+C1;;;;;;;A1;;;;;;
+C1;;;;;;;A1;;;;;;
+C1;;;;;;;A1;;;;;;
+C1;;HdC;;CO;"affirmation: ""oui""";word;A1;;;;;;
+C1;;HdC;;CO;"affirmation: ""oui""";word;A1;;;;;;
+C1;;;;;;;A1;;;;;;
+C1;;;;;;;A1;;;;;;
+C5;;;;;;;A5;HA;;;I;"description: ""c'est dehors""";word
+C5;;HdC;;CO;"confirmation: ""ah oui""";word;A5;;;;;;
+C5;HC;;;;;;A5;;;;;;
+C5;;;;D;confirmation: no speech;no speech;A5;;;;;;
+C5;;HdC;;CO;"affirmation: ""oui""";word;A5;;;;;;
+C5;;;;;;;A5;;HdA;;CO;confirmation: no speech;no speech
+C5;HC;;;NR;exclamation: no speech;no speech;A5;;;;;;
+C5;;;;;;;A5;;HdA;;CO;"negation: ""non""";word
+C5;;HdC;;CO;negation: another sentence;other;A5;;;;;;
+C5;;;;;;;A5;HA;;;I;"describe: ""mm presque""";word
+C5;;HdC;;CO;negation: another sentence;other;A5;;;;;;
+C5;;;;;;;A5;HA;;;NR;clarification: sentence;sentence
+C5;;;;;;;A5;HA;;;D;"indicate: ""sur soi""";word
+C5;;;;;;;A5;;HdA;;CO;"affirmation: ""ouais""";word
+C5;HC;;;NR;exclamation: no speech+laughter;no speech;A5;;;;;;
+C5;HC;;;NR;exclamation: sentence;sentence;A5;;;;;;
+C5;;HdC;;CO;"negation: ""non""";word;A5;;;;;;
+C5;;HdC;;CO;negation: no speech;no speech;A5;;;;;;
+C5;;HdC;;CO;affirmation: no speech;no speech;A5;;;;;;
+C5;;;;;;;A5;HA;;;D;"indicate: ""c'est le ...""";word
+C5;HC;;;NR;"exclamation: ""ah oui!""+ laughter";word;A5;;;;;;
+C5;;;;;;;A5;;HdA;;CO;"negation: ""non""";word
+C5;;;;;;;A5;;HdA;;CO;negation: no speech;no speech
+C5;;;;;;;A5;;HdA;;NR;clarification: sentence;sentence
+C5;;;;;;;A5;;HdA;;NR;clarification: sentence;sentence
+C5;;;;;;;A5;;HdA;;NR;exclamation: sentence;sentence
+C5;;;;;clarification: no speech;no speech;A5;;;;;;
+C5;;HC;;NR;;;A5;;;;;;
+C5;;;BC;;clarification: no speech;no speech;A5;;;;;;
+C5;;;;NR;;;A5;;;;;;
+C5;HC;;;D;"clarification: ""et les ..""";sentence;A5;;;;;;
+C5;;;;;;;A5;;HdA;;CO;"affirmation: ""ouais""";word
+C5;;;;;;;A5;HA;;;;;
+C5;;HdC;;CO;"negation: ""non""";word;A5;;;;D;"indicate: ""une ...""";word
+C5;;;;;;;A5;;;;;;
+C5;;;;;;;A5;HA;;;CO;"counting: ""trois""";word
+C5;;;;;;;A5;HA;;;D;"indicate: ""tu regarde l√†""";word
+C5;;;;;;;A5;HA;;;D;indicate: anoter sentence;other
+C5;;;;;;;A5;;HdA;;CO;confirmation: no speech;no speech
+C5;;;;;;;A5;HA;;;I;"describe: ""plus large""";word
+C5;;;;;;;A5;;HdA;;CO;"affirmation: ""ouais""";word
+C5;;;;;;;A5;;;;CO;"negation: ""non""";word
+C5;;;;;;;A5;;HdA;;;;
+C5;;;;;;;A5;HA;;;NR;confirmation: sentence;sentence
+C5;;;;;;;A5;;HdA;;CO;negation: no speech;no speech
+C5;;;;;;;A5;;HdA;;CO;negation: no speech;no speech
+C5;;;;;;;A5;HA;;;I;describe: another sentence;other
+C5;;;;;;;A5;HA;;;NR;clarification: sentence;sentence
+C5;;;;;;;A5;HA;;;I;"describe: ""dessin anim√©""";word
+C5;;;;;;;A5;HA;;;NR;giving turn: end of sentence;end
+C5;;;;;;;A5;;HdA;;NR;clarification: sentence;sentence
+C5;;;;;;;A5;HA;;;NR;"exclamation: ""awwwh""";word
+C5;;;;;;;A5;HA;;;CO;counting : sentence;sentence
+C5;;;;;;;A5;HA;;;CO;counting: sentence;sentence
+C5;;;;;;;A5;HA;;;NR;reflecting: sentence;sentence
+C5;;;;;;;A5;;HdA;;CO;negation: another sentence;other
+C5;;;;;;;A5;;HdA;;CO;negation: no speech;no speech
+C5;;;;;;;A5;;HdA;;NR;clarification: sentence;sentence
+C5;;;;;;;A5;;HdA;;CO;negation: no speech;no speech
+C5;;;;;;;A5;;HdA;;CO;"affirmation: ""ouais""";word
+C5;;;;;;;A5;HA;;;I;"describe: ""esp√®ce""";word
+C5;;;;;;;A5;;HdA;;NR;clarification: sentence;sentence
+C5;;;;;;;A5;HA;;;NR;giving turn: end of sentence;end
+C5;;;;;;;A5;HA;;;NR;giving turn: end of sentence;end
+C5;;;;;;;A5;;HdA;;NR;"exclamation: ""voil√†""";word
+C5;;HdC;;CO;negation: no speech;no speech;A5;HA;;;;;
+C5;;;;;;;A5;;;;NR;"exclation: ""voil√†""";word
+C5;;;;;;;A5;HA;;;NR;exclamation: sentence+laughter;sentence
+C5;;;;;;;A5;;;;;;
+C5;;HdC;;CO;negation: no speech;no speech;A5;HA;;;NR;narration: sentence;sentence
+C5;;HdC;;NR;reflecting: no speech;no speech;A5;;HdA;;D;indication: no speech;no speech
+C5;;HdC;;CO;"affirmation: ""oui""";word;A5;;HdA;;CO;negation: no speech;no speech
+C5;;;;;;;A5;;;;CO;;
+C5;;HdC;;CO;negation: no speech;no speech;A5;;;;;;
+C5;;HdC;;CO;"negation: ""non non""";word;A5;;;;;;
+C5;;;;;;;A5;;HdA;;NR;clarification: sentence;sentence
+C5;;;;;;;A5;;;;;;
+C5;;HdC;;CO;affirmation: no speech+vocalisation ;no speech;A5;;;;;;
+C5;;HdC;;NR;negation: sentence;sentence;A5;;HdA;;NR;giving turn: end of the sentence;end
+C5;;HdC;;CO;negation: no speech;no speech;A5;;HdA;;NR;reflecting: no speech;no speech
+C5;;HdC;;CO;affirmation: no speech;no speech;A5;;;;;;
+C5;;HdC;;CO;negation: no speech+vocalisation;no speech;A5;;;;;;
+C5;;;;;;;A5;;;;;;
+C5;;HdC;;CO;affirmation: no speech;no speech;A5;;;;;;
+C5;;HdC;;CO;negation: no speech;no speech;A5;;;;;;
+C5;;HdC;;CO;negation: no speech;no speech;A5;HA;;;CO;counting: sentence;sentence
+C5;HC;;;I;"describe object: ""gros""";word;A5;;;;;;
+C5;;;;;;;A5;;;;;;
+C5;;HdC;;CO;affirmation: no speech;no speech;A5;;;;;;
+C5;HC;;;I;"describe boject: ""il est gros""";word;A5;;;;;;
+C5;;;;;;;A5;;HdA;;NR;clarification: sentence;sentence
+C5;;;;;;;A5;;;;;;
+C5;;HdC;;CO;confirmation: no speech;no speech;A5;;;;;;
+C5;;;;;;;A5;;HdA;;NR;clarification: sentence;sentence
+C5;;HdC;;CO;confirmation: no speech+laughter;no speech;A5;;HdA;;NR;clarification: sentence;sentence
+C5;;;;;;;A5;;;;;;
+C5;;;;;;;A5;;HdA;;NR;reflecting: no speech;no speech
+C5;HC;;;NR;exclamation: no speechvocalisation+laughter;no speech;A5;;;;;;
+C5;;;;;;;A5;HA;;;NR;clarification: sentence;sentence
+C5;;HdC;;CO;"clarification: ""mais oui""";word;A5;;HdA;;NR;"exclamation: ""ahhhh""";word
+C5;;;;NR;narration: no speech+vocalisation;vocal;A5;;;;;;
+C5;HC;;;;;;A5;HA;;;NR;clarification: sentence;sentence
+C5;;HdC;;NR;narration: no speech+vocalisation;vocal;A5;;;;;;
+C5;;HdC;;NR;narration: sentence;sentence;A5;;;;;;
+C5;;HdC;;NR;narration: sentence;sentence;A5;;;;;;
+C5;HC;;;I;"describe object: ""en bois""";word;A5;;;;;;
+C5;HC;;;I;"describe object: ""il est gros""";word;A5;;;;;;
+C5;;;;NR;narration: sentence;sentence;A5;;;;;;
+C5;HC;HdC;;;;;A5;;;;;;
+C5;;;;NR;narrtion: sentence;sentence;A5;;;;;;
+C5;;;BC;I;describe: no speech;no speech;A5;;;;;;
+C5;;HdC;;I;describe: no speech;no speech;A5;;;;;;
+C5;;;;;;;A5;;;;;;
+C5;;;;;;;A5;;;;;;
+C5;;HdC;;NR;exclamation: no speech+laughter;no speech;A5;;;;;;
+C5;;;BC;NR;exclamation: no speech;no speech;A5;;HdA;;CO;"negation: ""non""";word
+C5;;;;;;;A5;;HdA;;NR;clarification: sentence;
+C5;;;;;;;A5;;;;;;
+C5;;;;;;;A5;;;;;;
+C5;;;;;;;A5;;HdA;;NR;clarification: sentence;sentence
+C5;;;;;;;A5;;HdA;;NR;"exclamation: ""ah non""";word
+C5;;HdC;;CO;"negation: ""non""";word;A5;HA;;;I;"describe: ""crash de feu?""";word
+C5;;HdC;;NR;clarification: sentence+laughter;sentence;A5;;HdA;;NR;reflecting: sentence;sentence
+C5;;HdC;;CO;"affirmation: ""ouais""";word;A5;HA;;;CO;counting: sentence;sentence
+C5;;;;;;;A5;;;;;;
+C5;;;;;;;A5;;;;;;
+C5;;;;;;;A5;;;;;;
+C5;;;;;;;A5;HA;;;NR;narrating: sentence;sentence
+C8;;;;;;;A8;;HdA;;NR;clarification: sentence;sentence
+C8;;;;;;;A8;;HdA;;NR;clarification: sentence;sentence
+C8;;;;;;;A8;;HdA;;CO;clarification: sentence;sentence
+C8;;;;;;;A8;;HdA;;CO;"negation: ""non""";word
+C8;;;;;;;A8;;HdA;;CO;"affirmation:""oui""";word
+C8;;;;;;;A8;;HdA;;CO;"negation: ""non""";word
+C8;;;;;;;A8;;HdA;;CO;"affirmation: ""oui""";word
+C8;;;;;;;A8;;HdA;;NR;reflecting: sentence;sentence
+C8;;;;;;;A8;;HdA;;NR;clarification: sentence;sentence
+C8;;;;;;;A8;;;BA;NR;clarification: sentence;sentence
+C8;;;;;;;A8;;HdA;;NR;clarification: sentence;sentence
+C8;;;;;;;A8;;HdA;;NR;clarification: sentnece;sentence
+C8;;HdC;;CO;negation: no speech;no speech;A8;;;;;;
+C8;;;;;;;A8;;HdA;;CO;"affirmation: ""oui""";word
+C8;;;;;;;A8;;HdA;;CO;"negation: ""non""";word
+C8;;;;;;;A8;;HdA;;NR;clarification: sentence;sentence
+C8;;;;;;;A8;;HdA;;CO;"negation: ""non""";word
+C8;HC;;;NR;reflecting: sentence;sentence;A8;;;;;;
+C8;;;;;;;A8;;HdA;;CO;"negation: ""non""";word
+C8;HC;;;NR;clarification: sentence;sentence;A8;;;;;;
+C8;;;;;;;A8;;HdA;;CO;"negation: ""non""";word
+C8;;;;;;;A8;;HdA;;CO;"negation: ""non""";word
+C8;;;;;;;A8;;HdA;;CO;"negation: ""non plus""";word
+C8;;;;;;;A8;;HdA;;CO;"negation: ""non""";word
+C8;;HdC;;NR;reflecting: no speech;no speech;A8;;;;;;
+C8;;;;;;;A8;;HdA;;NR;reflecting: vocalisation;vocal
+C8;;;;;;;A8;;HdA;;NR;clarification: sentence;sentence
+C8;;;;;;;A8;;HdA;;NR;clarification: sentence;sentence
+C8;;;;;;;A8;;HdA;;NR;clarification: sentence;sentence
+C8;;;;;;;A8;;HdA;;CO;"affirmation: ""oui ben""";word
+C8;;;;;;;A8;;HdA;;CO;"negation: ""non""";word
+C8;;;;;;;A8;;HdA;;CO;"affirmation: ""oui""";word
+C8;;;;;;;A8;;HdA;;CO;"negation: ""non""";word
+C8;;HdC;;NR;reflecting: no speech;no speech;A8;;;;;;
+C8;;;;;;;A8;;HdA;;CO;"negation: ""non""";word
+C8;;;;;;;A8;HA;;;NR;clarification: sentence;sentence
+C8;;Hdc;;NR;exclamation: no speech;no speech;A8;;;;;;
+C8;;;;;;;A8;;HdA;;CO;affirmation: vocalisation;vocal
+C8;;;;;;;A8;;HdA;;CO;"negation: ""non""";word
+C8;;;;;;;A8;;HdA;;NR;explanation: sentnece;sentence
+C8;;;;;;;A8;;HdA;;CO;"negation: ""non""";word
+C8;;;;;;;A8;;HdA;;CO;"negation: ""non""";word
+C8;;HdC;;NR;reflecting: sentence;sentence;A8;;;;;;
+C8;;;;;;;A8;;HdA;;CO;"negation: ""non non non""";word
+C8;;;;;;;A8;;HdA;;NR;giving turn: no speech+laughter;no speech
+C8;HC;;;I;"describe: ""senti""";word;A8;;;;;;
+C8;;;;;;;A8;;HdA;;NR;clarification: sentence;sentence
+C8;;;;;;;A8;;HdA;;CO;"confirmation: ""ouais""";word
+C8;;;;;;;A8;;HdA;;CO;"negation: ""non""";word
+C8;;;;;;;A8;;HdA;;NR;clarification: sentence;sentence
+C8;;HdC;;CO;affirmation: no speech;no speech;A8;;;;;;
+C8;;;;;;;A8;;HdA;;NR;"clarification: ""leo""";word
+C8;;;;;;;A8;;HdA;;NR;clarification: sentence;sentence
+C8;;HdC;;NR;reflecting: no speech;no speech;A8;;;;;;
+C8;;;;;;;A8;;HdA;;NR;giving turn: end of sentence;end
+C8;;HdC;;NR;reflecting: no speech;no speech;A8;;;;;;
+C8;;;;;;;A8;;HdA;;NR;"clarification: ""non?""";word
+C8;;;;;;;A8;;HdA;;NR;explanation: sentence;sentence
+C8;;;;;;;A8;;HdA;;CO;"confirmation: ""ah oui""";word
+C8;;;;;;;A8;;HdA;;NR;reflecting: no speech;no speech
+C8;;;;;;;A8;;HdA;;NR;reflecting: no speech;no speech
+C8;;;;;;;A8;;HdA;;NR;clarification: sentence;sentence
+C8;;;;;;;A8;;HdA;;NR;clarification: end of sentence;end
+C8;;;;;;;A8;HA;;;NR;clarification: sentence;sentence
+C8;;;;;;;A8;;;;;;
+C8;;;;;;;A8;;HdA;;CO;confirmation: no speech;no speech
+C8;;;;;;;A8;;HdA;;CO;"negation: ""non""";word
+C8;;;;;;;A8;;HdA;;CO;"affirmation: ""ouais""";word
+C8;;HdC;;NR;reflecting: no speech;no speech;A8;;;;;;
+C8;;;;;;;A8;;HdA;;NR;reflecting: vocalisation;vocal
+C8;;;;;;;A8;;HdA;;NR;clarification: sentence;sentence
+C8;;;;;;;A8;;HdA;;CO;"negation: ""non""";word
+C8;;;;NR;;;A8;HA;;;NR;"clarification: ""ben pui""";word
+C8;;;;;;;A8;;HdA;;NR;clarification: sentence;sentence
+C8;;;;;;;A8;;;;;;
+C8;;;;;;;A8;HA;;;NR;clarification: sentence;sentence
+C8;;;;;;;A8;;HdA;;NR;clarification: sentence;sentence
+C8;;HdC;;NR;reflecting: no speech;no speech;A8;;;;;;
+C8;;;;;;;A8;HA;;;NR;clarification: sentence;sentence
+C8;HC;;;CO;reflecting: vocalisation;vocal;A8;;;;;;
+C8;HC;;;CO;reflecting: no speech;no speech;A8;;;;;;
+C8;HC;;;CO;reflecting: no speech;no speech;A8;;;;;;
+C8;;;;;;;A8;;HdA;;NR;clarification: sentence;sentence
+C8;;;;;;;A8;;HdA;;NR;exclamation: no speech+laughter;no speech
+C8;;;;;;;A8;;HdA;;NR;clarification: sentence;sentence
+C8;;HdC;;NR;reflecting: no speech;no speech;A8;;;;;;
+C8;;;;;;;A8;;HdA;;NR;clrafication: sentence;sentence
+C8;;;;;;;A8;;;BA;NR;reflecting: no speech;no speech
+C8;;HdC;;NR;reflecting: no speech;no speech;A8;;;;;;
+C8;;;;;;;A8;HA;;;I;"describe: ""col√®re""";word
+C8;;;;;;;A8;HA;;;I;describe: another sentence;other
+C8;;;;;;;A8;HA;;;I;"describe: ""√©xistence physique""";word
+C8;;;;;;;A8;;;;;;
+C8;;HdC;;NR;reflecting: no speech;no speech;A8;;;;;;
+C8;;;;;;;A8;HA;;;I;"describe: ""regarder""";word
+C8;;;;;;;A8;;HdA;;NR;clarification: sentence;sentence
+C8;;;;;;;A8;;HdA;;CO;"negation: ""non?""";word
+C8;;;;;;;A8;;HdA;;NR;clarification: sentence;sentence
+C8;;;;;;;A8;;HdA;;NR;"clarification: ""dieux?""";word
+C8;;;;;;;A8;;HdA;;CO;negation: another;other
+C8;;;;;;;A8;;HdA;;CO;negation: another;other
+C8;;;;;;;A8;;HdA;;NR;clarifiction: sentence;sentence
+C8;;;;;;;A8;;HdA;;NR;clarification: sentence;sentence
+C8;;;;;;;A8;;HdA;;NR;clarification: sentence;sentence
+C8;;;;;;;A8;;HdA;;NR;Clarification: sentence;sentence
+C8;;;;;;;A8;;HdA;;NR;clarification: sentence;sentence
+C8;;;;;;;A8;HA;;;CO;counting: sentence;sentence
+C8;;HdC;;CO;negation: another sentence;other;A8;;;;;;
+C8;;;;;;;A8;;HdA;;NR;clarification: sentence;sentence
+C8;;;;;;;A8;;HdA;;NR;reflecting: sentence;sentence
+C8;;;;;;;A8;;HdA;;NR;reflecting: end of sentence;end
+C8;;;;;;;A8;;HdA;;NR;"clarification: ""adverbe""";word
+C8;;;;;;;A8;;;BA;NR;exclamation: no speech+laughter;no speech
+C8;;;;;;;A8;;HdA;;NR;clarification: sentence;sentence
+C8;;HdC;;NR;"negation: ""non""";word;A8;;;;;;
+C8;;;BC;NR;exclamation: no speech+laughter;no speech;A8;;;;;;
+C8;;;;;;;A8;;HdA;;NR;clarification: sentence;sentence
+C8;;;;;;;A8;;HdA;;NR;"clarification: ""non?""";word
+C8;;HdC;;NR;clarification: sentence;sentence;A8;;;;;;
+C8;;;;;;;A8;;;BA;NR;exclamation: no speech+laughter;no speech
+C8;;;;;;;A8;;HdA;;NR;clarification: sentence;sentence
+C8;;;;;;;A8;;HdA;;NR;clarification: sentence;sentence
+C8;;;;;;;A8;;HdA;;NR;clarification: end of sentence;end
+C8;HC;;;CO;reciprocation: laughter;no speech;A8;HA;;;CO;reciprocation: no speech;no speech
+C8;;;;;;;A8;;HdA;;NR;narration: sentence;sentence
+C8;HC;;;I;"describe: ""un adverb""";word;A8;;;;;;
+C8;;;;;;;A8;;;BA;NR;exclamation: no speech+laughter;no speech
+C8;;;;;;;A8;;HdA;;NR;narration: sentnece;sentence
+C8;;;;;;;A8;;HdA;;NR;reflecting: sentence;sentence
+C8;;;;;;;A8;;HdA;;NR;keeping turn: end of sentence;end
+C8;HC;;;D;"indicate: ""classe grammatical""";word;A8;;;;;;
+C8;;;;;;;A8;;HdA;;CO;"negation: ""non""";word
+C8;;;;;;;A8;;HdA;;NR;clarification: sentence;sentence
+C8;;;;;;;A8;;;;;;
+C8;;;;;;;A8;;HdA;;;;
+C8;;;;;;;A8;;;BA;NR;clarification: sentence;sentence
+C8;;;;;;;A8;;HdA;;CO;affirmation: another sentence;other
+C8;;HdC;;NR;clarification: sentnece;sentence;A8;;;;;;
+C8;;HdC;;NR;clarification: sentence;sentence;A8;;;;;;
+C8;;;;;;;A8;;HdA;;CO;"affirmation: ""oui""";word
+C8;;;;;;;A8;;HdA;;NR;"reflecting: ""bon""";word
+C8;;;;;;;A8;;HdA;;CO;"negation: ""non""";word
+C8;HC;;;D;"indicate: ""masse classmate?""";word;A8;;;;;;
+C8;;;;;;;A8;;HdA;;CO;"negation: ""non""";word
+C8;;HdC;;NR;reflecting: no speech;no speech;A8;;;;;;
+C8;HC;;;I;"describe: ""un objet""";word;A8;;;;;;
+C8;;;;;;;A8;;;BA;NR;exclamation: no speech+laughter;no speech
+C8;;;;;;;A8;;HdA;;NR;clarification: sentence;sentence
+C8;;;;;;;A8;;HdA;;NR;exclamation: sentnece+laughter;sentence
+C8;;;;;;;A8;;;;;;
+C8;;;;;;;A8;;;BA;NR;exclamation: no speech+laughter;no speech
+C8;;;;;;;A8;;HdA;;CO;"negation: ""non""";word
+C8;;;;;;;A8;;HdA;;NR;clarification: sentence;sentence
+C8;;;;;;;A8;;HdA;;D;indication: another sentence;other
+C8;;;;;;;A8;;HdA;;D;indication: vocalisation;vocal
+C8;;;;;;;A8;;HdA;;CO;"affirmation: ""oui""";word
+C8;;;;;;;A8;;HdA;;CO;"negation: ""non""";word
+C8;;;;;;;A8;;HdA;;CO;"negation: ""non""";word
+C8;;;;;;;A8;;HdA;;CO;"negation: ""non""";word
+C8;;;;;;;A8;;HdA;;CO;"negation: ""non""";word
+C8;;;;;;;A8;;HdA;;NR;"affirmation oui""";word
+C8;HC;;;D;"indicate: ""manger""";word;A8;;;;;;
+C8;;;;;;;A8;;HdA;;CO;"affirmation: ""pui""";word
+C8;;;;;;;A8;;HdA;;CO;"negation: ""non""";word
+C8;;HdC;;NR;clarification: sentence;sentence;A8;;;;;;
+C8;;;;;;;A8;;HdA;;CO;"negation: ""non""";word
+C8;;;;;;;A8;;HdA;;CO;"negation: ""non""";word
+C8;;HdC;;NR;exclamation: no speech+laughter;no speech;A8;;;;;;
+C8;;;;;;;A8;;HdA;;CO;"affirmation: ""oui""";word
+C8;;;;;;;A8;;HdA;;NR;clarification: no speech;no speech
+C8;;;;;;;A8;;;;;;
+C8;;;;;;;A8;;HdA;;CO;"affirmation: ""ouais""";word
+C8;;;;;;;A8;;HdA;;CO;"negation: ""non""";word
+C8;;HdC;;NR;reflecting: no speech;no speech;A8;;;;;;
+C8;;;;;;;A8;;HdA;;NR;giving turn: no speech;no speech
+C8;;;;;;;A8;;HdA;;CO;"affirmation: ""oui""";word
+C8;;;;;;;A8;;HdA;;CO;affirmation: vocalisation;vocal
+C8;;;;;;;A8;;HdA;;CO;"negation: ""non""+laughter";word
+C8;;HdC;;NR;giving turn: end of the sentence;end;A8;;;;;;
+C8;;;BC;NR;clarification: sentence;sentence;A8;;;;;;
+C8;HC;;;I;"describe: ""taille""";word;A8;;;;;;
+C8;;;;;;;A8;;HdA;;NR;reflecting: no speech;no speech
+C8;;;;;;;A8;;;;;;
+C8;;;;;;;A8;;HdA;;CO;"affirmation: ""ah oui""";word
+C8;;;;;;;A8;;HdA;;CO;"affirmation: ""oui""";word
+C8;;HdC;;NR;reflecting: no speech;no speech;A8;;;;;;
+C8;;HdC;;NR;reflecting;no speech;A8;;;;;;
+C8;;;;;;;A8;;HdA;;NR;"confirmaion: ""aussi""";word
+C8;;;;;;;A8;;HdA;;NR;reflecting: no speech;no speech
+C8;;;;;;;A8;;HdA;;NR;negation: sentence;sentence
+C8;;;;;;;A8;;HdA;;CO;"negation: ""non""";word
+C8;;HdC;;NR;reflecting: no speech;no speech;A8;;;;;;
+C8;;;;;;;A8;;HdA;;CO;"affirmation: ""oui""+laughter";word
+C8;;HdC;;NR;reflecting: no speech;no speech;A8;;;;;;
+C8;HC;;;CO;no speech;;A8;;;;;;
+C8;;;;;;;A8;;HdA;;NR;giving turn: end of sentence;end
+C8;;HdC;;NR;"reflecting: ""ah si""";word;A8;;;;;;
+C8;;;;;;;A8;;HdA;;NR;giving turn: end of sentence;end
+C8;;;;;;;A8;;HdA;;D;"indication: ""plnate dans les jardin""";word
+C8;;;;;;;A8;;HdA;;NR;clarification: sentence;sentence
+C8;;;;;;;A8;;HdA;;NR;giving turn: end of sentence;end
+C8;;;;;;;A8;;HdA;;NR;clarification: sentence;sentence
+C8;HC;;;NR;clarification: sentence;sentence;A8;;;;;;
+C8;;;;;;;A8;;HdA;;NR;giving turn: end of sentence;end
+C8;;;;;;;A8;;HdA;;NR;giving turn: end of sentence;end
+C8;;;;;;;A8;;HdA;;NR;clarification: sentence;sentence
+C8;;HdC;;NR;reflecting: no speech;no speech;A8;;;;;;
+C8;;;;;;;A8;;HdA;;NR;reflecting: vocalisation;vocal
+C8;;;;;;;A8;;HdA;;NR;narration: sentence;sentence
+C8;;;;;;;A8;;HdA;;NR;narration: sentence;sentence
+C8;;;;;;;A8;;HdA;;NR;narration: sentence;sentence
+C8;;HdC;;NR;reflecting: no speech;no speech;A8;;;;;;
+C8;;;;;;;A8;;HdA;;NR;clarification: sentence;sentence
+C8;;;;;;;A8;;HdA;;NR;clarification: sentenc;sentence
+C8;;;;;;;A8;;HdA;;CO;affirmation: another sentence;other
+C8;;;;;;;A8;;HdA;;NR;giving turn: end of sentence;end
+C8;;HdC;;NR;reflecting: no speech;no speech;A8;;;;;;
+C8;;;;;;;A8;;HdA;;NR;giving turn: end of sentence;end
+C8;;;;;;;A8;;HdA;;NR;giving turn: end of sentence;end
+C8;;;;;;;A8;;HdA;;NR;giving turn: end of sentence;end
+C8;;;;;;;A8;;HdA;;NR;giving turn: end of sentence;end
+C8;;;;;;;A8;;HdA;;NR;narration: sentence;sentence
+C8;;;;;;;A8;;HdA;;NR;eflecting: vocalisation;vocal
+C8;HC;;;D;"indicate: ""word""";word;A8;;;;;;
+C8;HC;;;NR;exclamation: end of sentence;end;A8;;;;;;
+C8;HC;;;NR;exclamation: sentence+laughter;sentence;A8;;;;;;
+C8;HC;;;NR;exclamation: end of sentence+laughter;end;A8;;;;;;
+C6;;HdC;;CO;"affirmation: ""oui""";word;A6;;;;;;
+C6;;;;;;;A6;;HdA;;NR;"reflecting: ""aie aie""";word
+C6;;;;;;;A6;HA;;;NR;clarification: sentence;sentence
+C6;;;;;;;A6;;;;;;
+C6;;;;;;;A6;;;;NR;clarification: sentence;sentence
+C6;;;;;;;A6;;HdA;;;;
+C6;;;;;;;A6;;;BA;NR;clarification: sentence;sentence
+C6;;;;;;;A6;;HdA;;CO;"negation: ""non non""";word
+C6;;;;;;;A6;;;;;;
+C6;;;;;;;A6;HA;;;NR;clarification: sentence;sentence
+C6;HC;;;NR;give turn: no speech;no speech;A6;;;;;;
+C6;;;;;;;A6;;HdA;;NR;clarification: sentence;sentence
+C6;;;;;;;A6;HA;;;NR;clarification: sentence;sentence
+C6;;;;;;;A6;;HdA;;NR;clarification: sentence;sentence
+C6;;HdC;;CO;"negation: ""word""";word;A6;;;;;;
+C6;;;;;;;A6;;HdA;;NR;clarification: sentence;sentence
+C6;;;;;;;A6;;HdA;;NR;clarification: sentence;sentence
+C6;;;;;;;A6;HA;;;NR;clarification: sentence;sentence
+C6;;;;;;;A6;;HdA;;CO;"negation: ""ah non""";word
+C6;;;;;;;A6;;;;;;
+C6;;;;;;;A6;HA;;;NR;"giving turn: ""vas y""";end
+C6;;;;;;;A6;;HdA;;NR;"giving turn: ""on commence""";end
+C6;;;;;;;A6;;HdA;;NR;clarification: sentence;sentence
+C6;HC;;;D;"indication: ""ici""";word;A6;;;;;;
+C6;;;;;;;A6;;;;;;
+C6;;;;;;;A6;;HdA;;NR;"clarification: ""ah okay""";word
+C6;;HdC;;NR;"description: sentence""";sentence;A6;;;;;;
+C6;;;;;;;A6;;HdA;;NR;clarification: sentence;sentence
+C6;;;;;;;A6;HA;;;NR;clarification: sentence;sentence
+C6;;;;;;;A6;;HdA;;NR;"exclamation: ""ah non""";word
+C6;;;;;;;A6;HA;;;NR;"exclamation: ""ah non""";word
+C6;;;;;;;A6;;;;;;
+C6;;HdC;;CO;"negation: ""non, non""";word;A6;;;;;;
+C6;;;;;;;A6;;HdA;;NR;giving turn: end of sentence;end
+C6;;;;;;;A6;;HdA;;NR;clarification: sentence;sentence
+C6;;HdC;;CO;"negation: ""non""";word;A6;;;;;;
+C6;;HdC;;CO;"negation: ""non""";word;A6;;;;;;
+C6;;;;;;;A6;;HdA;;NR;giving turn: end of sentence;end
+C6;;;;;;;A6;;HdA;;NR;giving turn: end of sentence;end
+C6;;HdC;;CO;"negation: ""non""";word;A6;;;;;;
+C6;;HdC;;CO;negation: no speech;no speech;A6;HA;;;NR;clarification: sentence;sentence
+C6;;;BC;NR;"negation: ""non""";word;A6;;;;;;
+C6;HC;;;CO;negation: no speech;no speech;A6;;;;;;
+C6;;;;;;;A6;;HdA;;NR;giving turn: end of sentence;end
+C6;;HdC;;CO;"negation: ""non""";word;A6;;;;;;
+C6;;;;;;;A6;;;;;;
+C6;;;;;;;A6;HA;;;NR;clarification: sentence;sentence
+C6;;;;;;;A6;;HdA;;NR;clarification: sentence;sentence
+C6;;;;;;;A6;;;;;;
+C6;;;;;;;A6;HA;;;NR;clarification: sentence;sentence
+C6;;;;;;;A6;;HdA;;NR;clarification: sentence;sentence
+C6;HC;;;CO;reflecting: no speech;no speech;A6;;;;;;
+C6;;HdC;;CO;negation: no speech;no speech;A6;;;;;;
+C6;;HdC;;CO;negation: no speech;no speech;A6;;;;;;
+C6;;HdC;;CO;negation: no speech;no speech;A6;;;;;;
+C6;;;;;;;A6;;HdA;;NR;clarification: sentence;sentence
+C6;;HdC;;CO;negation: no speech;no speech;A6;;;;;;
+C6;;HdC;;NR;"giving turn: ""allez, allez, allez""";word;A6;;;;;;
+C6;;;;;;;A6;;HdA;;NR;giving turn: end of sentence;end
+C6;;HdC;;NR;clarification: sentnece;sentence;A6;;;;;;
+C6;HC;;;I;"describe object: ""chose""";word;A6;;;;;;
+C6;;;;;;;A6;;HdA;;NR;"clarification: ""oui, mais""";word
+C6;;;;;;;A6;HA;;;I;"describe: ""difference""";word
+C6;;;;;;;A6;;HdA;;CO;negation: another;other
+C6;;;;;;;A6;;HdA;;NR;clarification: sentence;sentence
+C6;;;;;;;A6;;HdA;;NR;giving turn: end of sentence;end
+C6;;;;;;;A6;;HdA;;CO;"confirmation: ""okay""";word
+C6;;;;;;;A6;;;;;clarification: sentence;sentence
+C6;;;;;;;A6;;HdA;;NR;;
+C6;;;;;;;A6;HA;;;NR;clarification: sentence;sentence
+C6;;;;;;;A6;;;;;;
+C6;;;;;;;A6;;HdA;;CO;"affirmation: ""okay""";word
+C6;;;;;;;A6;;;;;;
+C6;;;;;;;A6;HA;;;NR;clarification: sentence;sentence
+C6;;;;;;;A6;;HdA;;NR;clarification: sentence;sentence
+C6;;HdC;;NR;"clarification: ""indice""";word;A6;;;;;;
+C6;;;;;;;A6;;HdA;;CO;"affirmation: ""oui""";word
+C6;;;;;;;A6;;HdA;;CO;"affirmation: ""oui""";word
+C6;;;;;;;A6;;HdA;;CO;"affirmation: ""oui, oui""";word
+C6;;HdC;;NR;"reflecting: ""embet√©""";word;A6;;;;;;
+C6;;;BC;NR;giving turn: end of sentence;end;A6;;;;;;
+C6;;HdC;;;;;A6;;;;;;
+C6;;;;NR;giving turn: end of sentence;end;A6;;;;;;
+C6;;;;;;;A6;;HdA;;NR;clarification: sentence;sentence
+C6;;HdC;;CO;negation: no speech;no speech;A6;;;;;;
+C6;;;BC;NR;clarification: sentence;sentence;A6;;;;;;
+C6;;;;;;;A6;;HdA;;NR;giving turn: end of sentence;end
+C6;HC;;;NR;exclamation: sentence;;A6;;;;;;
+C6;HC;;;CO;exclamation: no speech;;A6;;;;;;
+C6;;;;;;;A6;HA;;;D;"giving turn: ""sasha, √† toi""";end
+C6;;;;;;;A6;HA;;;D;indicate: no speech;no speech
+C6;;;;;;;A6;;HdA;;NR;clarification: sentence;sentence
+C6;;;;;;;A6;;HdA;;CO;affirmation: no speech;no speech
+C6;;;;;;;A6;;HdA;;NR;"giving turn: ""vas y""";end
+C6;;;;;;;A6;;HdA;;NR;giving turn: end of sentence;end
+C6;;;BC;NR;"negation: ""non""";word;A6;;;;;;
+C6;;;;;;;A6;;HdA;;NR;giving turn: end of sentence;end
+C6;;HdC;;CO;confirmation: no speech;no speech;A6;;;;;;
+C6;;;;;;;A6;;HdA;;NR;giving turn: end of sentence;end
+C6;;HdC;;CO;negation: no speech;no speech;A6;;;;;;
+C6;;;;;;;A6;;HdA;;NR;giving turn: end of sentence;end
+C6;;HdC;;CO;negation: no speech;no speech;A6;;;;;;
+C6;;;;;;;A6;;HdA;;NR;giving turn: end of sentence;end
+C6;;HdC;;CO;negation: no speech;no speech;A6;;;;;;
+C6;;;;;;;A6;;HdA;;NR;"giving turn: ""indice""";word
+C6;;HdC;;CO;negation: no speech;no speech;A6;;;;;;
+C6;;HdC;;CO;negation: no speech;no speech;A6;;;;;;
+C6;;;;;;;A6;;HdA;;NR;clarification: sentence;sentence
+C6;;;;;;;A6;;HdA;;NR;giving turn: end of sentence;end
+C6;;HdC;;CO;negation: no speech;no speech;A6;;;;;;
+C6;;;;;;;A6;;HdA;;NR;clarification: sentence;sentence
+C6;;HdC;;CO;affirmation: no speech;no speech;A6;;;;;;
+C6;;HdC;;CO;negation: no speech;no speech;A6;;;;;;
+C6;;HdC;;CO;negation: no speech;no speech;A6;;;;;;
+C6;;HdC;;CO;negation: no speech;no speech;A6;;;;;;
+C6;;HdC;;NR;clarification: sentence;sentence;A6;;;;;;
+C6;;HdC;;NR;clarification: sentence;sentence;A6;;;;;;
+C6;;;;;;;A6;HA;;;D;"indicate: ""sasha""";word
+C6;;;;;;;A6;HA;;;NR;clarification: sentence;sentence
+C6;HC;;;D;"indicate: ""la main d'abdellah""";word;A6;;;;;;
+C6;;;;;;;A6;;HdA;;NR;"reflecting: ""okay""";word
+C6;;;;;;;A6;;HdA;;D;"take turn: ""√† moi""";end
+C6;;;;;;;A6;;HdA;;CO;"affirmation: ""oui""";word
+C6;;HdC;;NR;giving turn: end of sentence;end;A6;;;;;;
+C6;;HdC;;NR;clarification: sentence;sentence;A6;;;;;;
+C6;;;;;;;A6;;HdA;;NR;"negation: ""non""";word
+C6;;HdC;;NR;giving tunr: end of sentence;end;A6;;;;;;
+C6;;HdC;;NR;giving tunr: end of sentence;end;A6;;;;;;
+C6;;;;;;;A6;;HdA;;NR;"negation: ""non""";word
+C6;;;;;;;A6;;HdA;;NR;clarification: vocalisation;vocal
+C6;HC;;;D;"indicate: ""telephone""";word;A6;;;;;;
+C6;HC;;;D;"indicate: ""abdellah""";word;A6;;;;;;
+C6;;;;;;;A6;;HdA;;NR;clarification: sentence;sentence
+C6;;;;;;;A6;;HdA;;NR;giving turn: end of sentence ;end
+C6;;;;;;;A6;;HdA;;NR;clarification: sentence;sentence
+C6;;;BC;NR;negation: vocalisation;vocal;A6;;;;;;
+C6;;;;;;;A6;;;;;;
+C6;;HdC;;NR;giving turn: no speech;no speech;A6;;;;;;
+C6;;;;;;;A6;;HdA;;CO;"negation: "" non non non """;word
+C6;;;;;;;A6;;HdA;;CO;"negation: ""non""";word
+C6;;;;;;;A6;;HdA;;NR;clarification: sentence;sentence
+C6;;;;;;;A6;;HdA;;NR;"giving turn: ""sasha""";word
+C6;HC;;;CO;taking turn: no speech;no speech;A6;;;;;;
+C6;;;;;;;A6;;HdA;;NR;clarification: sentence;sentence
+C6;HC;;;NR;"taking turn: ""sentence""";sentence;A6;;;;;;
+C6;HC;;;CO;taking turn: no speech;no speech;A6;;;;;;
+C6;;;;;;;A6;;HdA;;NR;"negation: ""non non non""";word
+C6;;;;;;;A6;;HdA;;NR;clarification: sentence;sentence
+C6;;;;;;;A6;;HdA;;NR;clarification: sentence;sentence
+C6;;;;;;;A6;;HdA;;NR;clarification: sentence;sentence
+C6;;;;;;;A6;HA;;;NR;clarification: sentence;sentence
+C6;;;;;;;A6;HA;;;CO;"counting: ""cinq""";word
+C6;;;;;;;A6;HA;;;NR;clarification: sentence;sentence
+C6;;;;;;;A6;HA;;;CO;counting: no speech;no speech
+C6;HC;;;I;taking turn: no speech;no speech;A6;;;;;;
+C6;;;;;;;A6;;;;;;
+C6;;;;;;;A6;HA;;;D;indicate: another sentence;other
+C6;;;;;;;A6;;HdA;;NR;instruction: sentence;sentence
+C6;;;;;;;A6;HA;;;CO;"counting: ""deux...""";word
+C6;HC;;;D;"describe: ""correctement""";word;A6;;;;;;
+C6;HC;;;I;describe action: no speech;no speech;A6;;;;;;
+C6;;;;;;;A6;;HdA;;NR;exclamation: sentence;sentence
+C6;HC;;;D;"indicate: ""toi, toi""";word;A6;;;;;;
+C6;;;;;;;A6;;HdA;;NR;instruction: sentence;sentence
+C6;;;;;;;A6;;HdA;;NR;giving turn: end of sentence;end
+C6;;;;;;;A6;HA;;;CO;counting: no speech;no speech
+C6;;;;;;;A6;;HdA;;CO;"affirmation: ""oui""";word
+C6;HC;;;D;"giving turn: ""allez""";word;A6;;;;;;
+C6;HC;;;NR;reflection: sentence;sentence;A6;;;;;;
+C6;;;;;;;A6;;;;;;
+C6;;;;;;;A6;;HdA;;NR;clarification: sentence;sentence
+C6;;;;;;;A6;HA;;;NR;clarification: sentence;sentence
+C6;;;;;;;A6;;HdA;;NR;giving turn: end of sentence;end
+C6;;HdC;;CO;"negation: ""non""";word;A6;;;;;;
+C6;;;;;;;A6;;HdA;;NR;giving turn: end of sentence;end
+C6;;;;;;;A6;HA;;;D;"indicate: ""l√†""";word
+C6;;;;;;;A6;HA;;;I;"describe: "" c'est c'est""";word
+C6;;;;;;;A6;HA;;;D;"indicate: ""√ßa √ßa'";word
+C6;;;;;;;A6;;HdA;;NR;giving turn: end of sentence;end
+C6;;HdC;;CO;negation: no speech;no speech;A6;;;;;;
+C6;;;;;;;A6;;HdA;;NR;giving turn: end of sentence;end
+C6;;HdC;;NR;clarification: sentence;sentence;A6;;;;;;
+C6;;;;;;;A6;;HdA;;NR;clarification: sentence;sentence
+C6;;HdC;;CO;negation: no speech;no speech;A6;;;;;;
+C6;;;;;;;A6;;HdA;;NR;giving turn: end of sentence;end
+C6;;;;;;;A6;;HdA;;NR;reflection: sentence;sentence
+C6;;;;;;;A6;HA;;;NR;clarification: sentence;sentence
+C6;;;;;;;A6;;;;;;
+C6;;;;;;;A6;;HdA;;NR;clarification: sentence;sentence
+C6;;;;;;;A6;HA;;;NR;clarification: sentence;sentence
+C6;;;;;;;A6;HA;;;NR;clarification: sentence;sentence
+C6;;;;;;;A6;;HdA;;NR;instruction: sentence;sentence
+C6;;;;;;;A6;;HdA;;NR;clarification: sentence;sentence
+C6;HC;;;NR;giving turn: sentence;sentence;A6;;;;;;
+C6;;;;;;;A6;;HdA;;NR;exclamation: sentence+laughter;sentence
+C6;;;;;;;A6;;HdA;;NR;giving turn: end of sentence;end
+C6;;;;;;;A6;;HdA;;NR;giving turn: end of sentence;end
+C6;;;;;;;A6;HA;;;CO;"counting: ""un mot""";word
+C6;;;;;;;A6;;HdA;;NR;"giving turn: ""end of sentence";end
+C6;;;;;;;A6;;;;;;
+C6;;;;;;;A6;HA;;;NR;Clarification: vocalisation;vocal
+C6;;;;;;;A6;;HdA;;CO;"affirmation: ""ouais""";word
+C6;;;;;;;A6;;HdA;;NR;"giving turn: ""non""";word
+C6;;;;;;;A6;;HdA;;NR;reflecting: no speech;no speech
+C6;;;;;;;A6;;HdA;;NR;giving turn: end of sentence;end
+C6;;;;;;;A6;HA;;;NR;clarification: sentence;sentence
+C6;;;;;;;A6;;HdA;;CO;"affirmation: ""ouais""";word
+C6;;;;;;;A6;HA;;;NR;clarification: sentence;sentence
+C6;;;;;;;A6;;HdA;;CO;"negation: ""non""";word
+C6;;;;;;;A6;;;;NR;clarification: sentence;sentence
+C6;;;;;;;A6;HA;;;;;
+C6;;;;;;;A6;;HdA;;NR;clarification: sentence;sentence
+C6;;HdC;;CO;negation: no speech;no speech;A6;;;;;;
+C6;;;;;;;A6;;HdA;;CO;"affirmation: ""oui""";word
+C6;;;;;;;A6;;HdA;;CO;affirmation: no speech;no speech
+C6;HC;;;NR;explantaion: sentence;sentence;A6;;;;;;
+C6;;;;;;;A6;;;;;;
+C6;;;;;;;A6;HA;;;NR;clarificiation: sentence;sentence
+C6;;;;;;;A6;;HdA;;NR;clarification: sentence;sentence
+C6;;;;;;;A6;;HdA;;NR;"negation: ""non""";word
+C6;;;;;;;A6;;HdA;;CO;"affirmation: ""oui""";word
+C6;;;;;;;A6;;HdA;;CO;"negation: ""non""";word
+C6;;;;;;;A6;;;;;;
+C6;;;;;;;A6;;HdA;;NR;instruction: sentence;sentence
+C6;;;;;;;A6;HA;;;NR;instruction: sentenc;sentence
+C6;;;;;;;A6;HA;;;I;"describe: ""enleve""";word
+C6;;;;;;;A6;;HdA;;CO;"affirmation: ""ouais""";word
+C6;;;;;;;A6;;HdA;;NR;giving turn: end of sentence;end
+C6;;;;;;;A6;HA;;;NR;clarification: sentence;sentence
+C6;;;;;;;A6;;HdA;;NR;clarification: sentence;sentence
+C6;;;;;;;A6;;HdA;;CO;"negation: ""non""";word
+C6;;;;;;;A6;;HdA;;NR;clarification: sentence;sentence
+C6;;;;;;;A6;;;;;;
+C6;;;;;;;A6;;HdA;;NR;giving turn: end of sentence;end
+C6;;;;;;;A6;HA;;;NR;"exclamation: ""bravo""";word
+C6;;;;;;;A6;HA;;;D;indicate: another sentence;other
+C6;;;;;;;A6;;HdA;;D;"indicate: ""remet""";word
+C6;;;;;;;A6;;HdA;;NR;clarification: sentence;sentence
+C6;;;;;;;A6;;HdA;;CO;"affirmation: ""okay""";word
+C6;;HdC;;CO;"affirmation: ""oui""";word;A6;;;;;;
+C6;HC;;;D;"indicate: ""lui""";word;A6;;;;;;
+C6;;;;;;;A6;;HdA;;CO;"affirmation: ""oui oui""";word
+C6;;;;;;;A6;;HdA;;CO;"affirmation: ""ouais""";word
+C6;;;;;;;A6;;HdA;;NR;clarification: sentence;sentence
+C6;;HdC;;CO;"negation: ""non, ah""";word;A6;;;;;;
+C6;;;;;;;A6;;;;;;
+C6;;;;;;;A6;HA;;;I;"describe: ""on en fait deux""";word
+C6;;;;;;;A6;;HdA;;NR;clarification: sentence;sentence
+C6;;;;;;;A6;HA;;;D;"indicate: ""moi""";word
+C6;;;;;;;A6;;;;NR;instruction: stp Sasha;word
+C6;;;;;;;A6;HA;;;;;
+C6;;;;;;;A6;;HdA;;NR;instruction: sentence;sentence
+C6;;;;;;;A6;HA;;;D;"indicate: ""denrier mot""";word
+C6;;;;;;;A6;HA;;;NR;clarification: sentence;sentence
+C6;;;;;;;A6;HA;;;I;"describe: ""ensemble""";word
+C6;;;;;;;A6;HA;;;D;"indicate: ""tu""";word
+C6;;;;;;;A6;HA;;;D;je;word
+C6;;;;;;;A6;HA;;;D;"indicate: ""toi""";word
+C6;;;;;;;A6;;;;;;
+C6;;;;;;;A6;;HdA;;NR;"giving turn: ""allez""";word
+C6;;;;;;;A6;HA;;;I;"describe: ""collaborative""";word
+C6;;;;;;;A6;HA;;;D;"indicate: ""moi""";word
+C6;;;;;;;A6;HA;;;NR;clarification: sentence;sentence
+C6;;HdC;;CO;"negation: ""non""";word;A6;;;;;;
+C6;;HdC;;NR;clarification: sentence;sentence;A6;;;;;;
+C6;;;;;;;A6;;HdA;;NR;waiting for turn: no speech;no speech
+C6;;;;;;;A6;;HdA;;NR;clarification: sentence;sentence
+C6;;;;;;;A6;;HdA;;D;"indicate: "" la lampe""";word
+C6;;;;;;;A6;;HdA;;NR;"giving turn: ""indice""";word
+C6;;;;;;;A6;;HdA;;NR;clarification: sentence;sentence
+C6;;;;;;;A6;;HdA;;NR;waiting for turn: no speech;no speech
+C6;;;;;;;A6;HA;;;NR;waiting for turn: no speech;no speech
+C6;;;;;;;A6;HA;;;NR;clarification: sentence;sentence
+C6;;;;;;;A6;HA;;;D;"indicate: ""mon pull""";word
+C6;;HdC;;NR;"reflecting: ""mmm ouais""";word;A6;;;;;;
+C6;;;;;;;A6;;HdA;;NR;clarification: sentence;sentence
+C6;;;;;;;A6;HA;;;D;"indicate: ""√ßa c'est""";word
+C6;;;;;;;A6;;;;;;
+C6;;;;;;;A6;;HdA;;NR;clarification: sentence;sentence
+C6;;HdC;;NR;giving turn: end of sentence;end;A6;;;;;;
+C6;;;;;;;A6;HA;;;D;"indicate: ""√ßa c'est un pull en fait""";word
+C6;;;BC;NR;"negation: ""sais pas""";word;A6;;;;;;
+C6;;;;;;;A6;;;;;;
+C6;;;;;;;A6;;HdA;;NR;clarification: sentence;sentence
+C6;;;;;;;A6;HA;;;D;indicate: another sentence;other
+C6;;;;;;;A6;;HdA;;CO;"negation: ""non""";word
+C6;;;;;;;A6;;HdA;;NR;clarification: sentence;sentence
+C6;;HdC;;NR;clarification: sentence;sentence;A6;;;;;;
+C6;;;;;;;A6;;HdA;;CO;"affirmation: ""si""";word
+C6;;;BC;NR;"negation: ""non non""";word;A6;;;;;;
+C6;;;;;;;A6;;HdA;;NR;giving turn: end of sentence;end
+C6;HC;;;D;"indicate: ""t-shirt""";word;A6;;;;;;
+C6;;;;;;;A6;;HdA;;CO;"negation: ""non""";word
+C6;;;;;;;A6;HA;;;D;indicate: another sentence;other
+C6;;;;;;;A6;;HdA;;NR;exclamation: sentence;sentence
+C6;;;;;;;A6;HA;;;D;"indicate: ""√† moi""";word
+C6;;;;;;;A6;;HdA;;NR;giving turn: sentence;sentence
+C6;;;;;;;A6;;;;;;
+C6;;;;;;;A6;;HdA;;CO;"affirmation: ""ouais""";word
+C6;;;;;;;A6;HA;;;I;describe: snother sentence;other
+C6;;;;;;;A6;;;;;;
+C6;;;;;;;A6;;HdA;;NR;clarification: sentence;sentence
+C6;;;;;;;A6;HA;;;NR;clarification: end of sentence;end
+C6;;;;;;;A6;HA;;;D;"indicate: ""je gagne""";word
+C6;;;;;;;A6;HA;;;D;indicate: another sentence;other
+C6;;;;;;;A6;;HdA;;NR;intruction: sentence;sentence
+C6;;;;;;;A6;;HdA;;NR;givign turn: end of sentence;end
+C6;;;;;;;A6;HA;;;NR;keeping turn: sentence;sentence
+C6;;;;;;;A6;HA;;;I;"describe: ""pas toujours""";word
+C6;;HdC;;NR;clarification: sentence;sentence;A6;;;;;;
+C6;;;;;;;A6;HA;;;NR;"exclamation: ""aah""";vocal
+C6;;;;;;;A6;;;;;;
+C6;;;;;;;A6;;HdA;;NR;"exclamation: ""okay""";word
+C6;;;;;;;A6;HA;;;CO;describe: no speech;no speech
+C6;HC;;;NR;exclamation: sentence;sentence;A6;;;;;;
+C3;;HdC;;CO;affrimation: no speech;no speech;A3;;;;;;
+C3;;;;;;;A3;;HdA;;CO;"affirmation: ""oui""+ laughter";word
+C3;;;;;;;A3;;HdA;;CO;affirmation: vocalisation;vocal
+C3;HC;;;I;"describe: "" comme √ßa""";word;A3;;;;;;
+C3;;HdC;;CO;"negation: ""sais pas""";word;A3;;;;;;
+C3;;HdC;;CO;"negation: ""non""";word;A3;;;;;;
+C3;;;BC;NR;clarification: sentence;sentence;A3;;;;;;
+C3;;;;;;;A3;;HdA;;NR;reflecting: sentence;sentence
+C3;HC;;;I;"describe: ""comment avec √ßa""";word;A3;;;;;;
+C3;;;;;;;A3;HA;;;I;"describe: ""comme √ßa""";word
+C3;HC;;;I;"describe: "" c'est √ßa?""";word;A3;;;;;;
+C3;;;;;;;A3;;HdA;;NR;clarification: sentence;sentence
+C3;;;;;;;A3;;HdA;;CO;"negation: ""non""";word
+C3;;;;;;;A3;;HdA;;CO;negation: no speech;no speech
+C3;;;;;;;A3;;HdA;;D;indicate: another sentence;other
+C3;;;;;;;A3;;;;CO;"negation: ""non""";word
+C3;;;;;;;A3;;HdA;;;;
+C3;;;;;;;A3;;;BA;NR;"negation: ""non""";word
+C3;;;;;;;A3;;HdA;;NR;clarification: sentence;sentence
+C3;HC;;;D;"indicate: ""dedan la voiture""";word;A3;;;;;;
+C3;;;;;;;A3;;HdA;;NR;reflecting: no speech;no speech
+C3;;;;;;;A3;HA;;;NR;reflecting: vocalisation;vocal
+C3;HC;;;D;"indicate: ""du soleil""";word;A3;;;;;;
+C3;;;;;;;A3;;HdA;;CO;"affirmation: ""oui""";word
+C3;;;;;;;A3;;HdA;;CO;confirmation: no speech;no speech
+C3;;HdC;;CO;affirmation: no speech;no speech;A3;;;;;;
+C3;;;;;;;A3;;HdA;;NR;clarificaiton: sentence;sentence
+C3;HC;;;CO;counting: no speech;no speech;A3;;;;;;
+C3;;;;;;;A3;;HdA;;CO;"negation: ""non""+laughter";word
+C3;;;;;;;A3;;HdA;;NR;clarification: sentence;sentence
+C3;;;;;;;A3;;HdA;;D;"indicate: ""√† gauche et √† droite""";word
+C3;;;;;;;A3;;HdA;;CO;"negation: ""non""";word
+C3;;;;;;;A3;;HdA;;NR;reflecting: sentence;sentence
+C3;;;;;;;A3;;HdA;;CO;"affirmation: ""ouais""";word
+C3;;HdC;;NR;reflecting: vocalisation;vocal;A3;;;;;;
+C3;;;;;;;A3;;HdA;;NR;waiting for turn: no speech;no speech
+C3;;HdC;;CO;"negation: ""sais pas""";word;A3;;;;;;
+C3;;;;;;;A3;;;BA;NR;exclamation: sentence + laughter;sentence
+C3;HC;;;I;describe: no speech;no speech;A3;;;;;;
+C3;;HdC;;CO;negation: no speech;no speech;A3;;;;;;
+C3;;;;;;;A3;;HdA;;CO;negation: another sentence;other
+C3;;;;;;;A3;;HdA;;NR;giving turn: end of sentence;end
+C3;;HdC;;CO;"affirmation: ""oui""";word;A3;;;;;;
+C3;HC;;;D;indicate: another sentence;other;A3;;;;;;
+C3;;;;;;;A3;;;BA;NR;"exclamation: ""bah oui""";word
+C3;;;;;;;A3;;HdA;;NR;waiting for turn: no speech;no speech
+C3;HC;;;D;"indicate: ""sur la terre""";word;A3;;;;;;
+C3;;;;;;;A3;;HdA;;NR;giving turn: end of sentence;end
+C3;;;;;;;A3;;HdA;;NR;giving turn: end of sentence;end
+C3;;HdC;;CO;affirmation: vocalisation;vocal;A3;;;;;;
+C3;;;;;;;A3;;HdA;;NR;giving turn: end of sentence;end
+C3;;HdC;;CO;affirmation: no speech;no speech;A3;;;;;;
+C3;;;;;;;A3;;HdA;;NR;clarification: sentence;sentence
+C3;;;;;;;A3;;HdA;;D;indicate: another sentence;other
+C3;;;;;;;A3;;HdA;;NR;clarification: sentence;sentence
+C3;;;;;;;A3;;HdA;;NR;clarification: end of sentence;end
+C3;;;;;;;A3;;HdA;;NR;clarification: sentence;sentence
+C3;;;;;;;A3;;HdA;;NR;waiting for turn: no speech;no speech
+C3;HC;;;I;"describe: ""maison""";word;A3;;;;;;
+C3;;;;;;;A3;;HdA;;NR;waiting for turn: no speech;no speech
+C3;HC;;;D;"indicate: ""comme toi l√†""";word;A3;;;;;;
+C3;;HdC;;CO;"negation: ""non""";word;A3;;;;;;
+C3;;;;;;;A3;HA;;;NR;clarification: sentence;sentence
+C3;;;;;;;A3;;HdA;;NR;clarification: vocalisation;vocal
+C3;;HdC;;CO;negation: no speech;no speech;A3;;;;;;
+C3;;;;;;;A3;;HdA;;NR;exclamation: non speech;no speech
+C3;;;;;;;A3;;HdA;;NR;giving turn: end of sentence;end
+C3;;HdC;;CO;"affirmation: ""oui""";word;A3;;;;;;
+C3;;;;;;;A3;;HdA;;NR;reflecting: no speech;no speech
+C3;;;;;;;A3;;HdA;;NR;clarification: sentence;sentence
+C3;;;;;;;A3;HA;;;NR;exclamation: no speech;no speech
+C4;;;;;;;A3;;HdA;;NR;clarification: sentence;sentence
+C3;;;;;;;A3;HA;;;NR;instruction: sentence;sentence
+C10;;;;;;;A10;;HdA;;NR;exclamation: no speech+laughter;
+C10;;;;;;;A10;HA;;;I;"describe: ""cette pi√®ce""";
+C10;;;;;;;A10;;HdA;;NR;clarification: sentence;
+C10;;;;;;;A10;HA;;;I;describe: 's'allume';
+C10;;HdC;;CO;"negation: ""non""";word;A10;;;;;;
+C10;;;;;;;A10;;HdA;;NR;clarification sentence;
+C10;;;;;;;A10;HA;;;D;"indicate: ""le tableau""";
+C10;;;;;;;A10;HA;;;NR;clarification: sentence;
+C10;;;;;;;A10;HA;;;NR;clarification: sentence;
+C10;;;;;;;A10;HA;;;NR;clarification: sentence;
+C10;;;;;;;A10;HA;;;NR;clarification: sentence;
+C10;;;;;;;A10;;HdA;;NR;clarification: sentrence;
+C10;HC;;;NR;giving turn: end of sentence;end;A10;;;;;;
+C10;;;;;;;A10;;HdA;;CO;"negation: ""non""";
+C10;;;;;;;A10;;HdA;;CO;"affirmation: ""aaaah oui""";
+C10;HC;;;I;"describe: ""connait""";word;A10;;;;;;
+C10;;;;;;;A10;;HdA;;NR;reflecting: sentence;
+C10;;;;;;;A10;HA;;;NR;clarification: sentence;
+C10;;;;;;;A10;HA;;;I;"describe: ""parl√©""";
+C10;;;;;;;A10;;HdA;;NR;clarification: sentence;
+C10;;;;;;;A10;;;;;;
+C10;;;;;;;A10;HA;;;NR;clarification: sentence;
+C10;HC;;;D;reflecting: no speech;no speech;A10;;;;;;
+C10;HC;;;NR;keep turn: sentence;sentence;A10;;;;;;
+C10;;;;;;;A10;;HdA;;CO;"affirmation: ""oui""";
+C10;;;;;;;A10;;HdA;;NR;clarification: sentence;
+C10;;;;;;;A10;;HdA;;NR;"reflecting: ""mis""";
+C10;;;;;;;A10;;HdA;;CO;affirmation: another sentence;
+C10;;;;;;;A10;HA;;;D;"indicate: ""saga""";
+C10;HC;;;I;"describe: ""un ...""";word;A10;;;;;;
+C10;;;;;;;A10;;HdA;;CO;"afirmation: ""oui""";
+C10;;HdC;;NR;give turn: end of sentence;end;A10;;;;;;
+C10;;;;;;;A10;;HdA;;CO;"negation: ""non""";
+C10;;HdC;;NR;give turn: end of sentence;end;A10;;;;;;
+C10;;;;;;;A10;;HdA;;CO;"negation: ""non""";
+C10;;HdC;;NR;give turn: end of sentence;end;A10;;;;;;
+C10;;;;;;;A10;;HdA;;CO;"negation: ""non""";
+C10;;;;;;;A10;;HdA;;CO;"negation: ""non""";
+C10;;;;;;;A10;HA;;;NR;clarification: sentence;
+C10;;;;;;;A10;;HdA;;CO;"negation: ""non""";
+C10;HC;;;I;"describe: ""rencontre""";word;A10;;;;;;
+C10;HC;;;I;"describe: ""c'est un""";word;A10;;;;;;
+C10;;;;;;;A10;;HdA;;I;"describe: ""tout le...""";
+C10;;;;;;;A10;;HdA;;NR;clarification: sentence;
+C10;HC;;;I;"describe: ""c'est un..""";word;A10;;;;;;
+C10;;;;;;;A10;;HdA;;NR;reflecting: sentence;
+C10;;;;;;;A10;;HdA;;NR;reflecting: sentence;
+C10;;;;;;;A10;HA;;;I;"describe: ""√ßa est un...""";
+C10;;;;;;;A10;;HdA;;NR;clarification: sentence;
+C10;HC;;;D;"indicate: ""gar√ßon""";word;A10;;;;;;
+C10;;;;;;;A10;;HdA;;CO;affirmation: another sentence;
+C10;;HdC;;NR;giving turn: end of sentnece;end;A10;;;;;;
+C10;HC;;;NR;"taking turn: ""ah oui""";word;A10;;;;;;
+C10;HC;;;CO;reflecting: sentence;sentence;A10;;;;;;
+C10;HC;;;NR;reflecting: sentence;sentence;A10;;;;;;
+C10;;;;;;;A10;;HdA;;NR;wait turn: no speech;
+C10;HC;;;NR;giving turn: end of sentence;end;A10;;;;;;
+C10;;;;;;;A10;HA;;;NR;"exclamation: ""ouias""";
+C10;;;;;;;A10;HA;;;CO;"describe: ""mystifi√©""";
+C10;;;;;;;A10;;HdA;;CO;affirmation: no speech;
+C10;;;;;;;A10;;HdA;;NR;give turn: end of sentence;
+C10;;HdC;;CO;"negation: ""non""";word;A10;;;;;;
+C10;;;;;;;A10;;HdA;;NR;clarification: sentnece;
+C10;;;;;;;A10;HA;;;NR;clarification: sentence;
+C10;;;;;;;A10;;HdA;;NR;give turn: end of sentence;
+C10;;HdC;;CO;"negation: ""non""";word;A10;;;;;;
+C10;;;;;;;A10;HA;;;I;"describe: ""personnage""";
+C10;;;;;;;A10;;HdA;;NR;give turn: end of sentence;
+C10;;HdC;;CO;affirmation: no speech;no speech;A10;;;;;;
+C10;;;;;;;A10;HA;;;D;indicate: no speech+laughter;
+C10;;;;;;;A10;HA;;;NR;clarification: sentence;
+C10;;;;;;;A10;HA;;;NR;clarification: sentence;
+C10;;;;;;;A10;HA;;;D;indicate: no speech;
+C10;;;;;;;A10;HA;;;D;"indicate: ""tu""";
+C10;HC;;;NR;take turn: no speech;no speech;A10;;;;;;
+C10;;;;;;;A10;HA;;;NR;keep turn: sentence;
+C10;;HdC;;CO;"affirmation; ""ah oui""";word;A10;;;;;;
+C10;;;;;;;A10;HA;;;D;"indicte: ""moi""";
+C10;;;;;;;A10;;HdA;;CO;confirmation: another sentence;
+C10;;;;;;;A10;HA;;;D;"indicate: ""√† moi""";
+C10;;HdC;;CO;"affirmation: ""oui""";word;A10;;;;;;
+C10;;;;;;;A10;;HdA;;CO;"confirmation: ""ah d'acord""";
+C10;;;;;;;A10;;HdA;;CO;"negation: ""non""";
+C10;;;;;;;A10;;HdA;;CO;"affirmation: ""oui""";
+C10;HC;;;I;"describe: ""ici""";word;A10;;;;;;
+C10;;;;;;;A10;;HdA;;CO;"affirmation: ""oui""";
+C10;HC;;;I;"describe: ""sert √† qqch""";word;A10;;;;;;
+C10;;;;;;;A10;;HdA;;NR;clarification: sentence;
+C10;;;;;;;A10;HA;;;NR;clarification: sentence;
+C10;;;;;;;A10;;HdA;;CO;"negation: ""non""";
+C10;;;;;;;A10;;HdA;;NR;clarification: sentence;
+C10;;;;;;;A10;HA;;;NR;clarification: sentence;
+C10;;;;;;;A10;HA;;;I;"describe: ""une utilit√©""";
+C10;;;;;;;A10;HA;;;I;"describe: ""en plus""";
+C10;;;;;;;A10;HA;;;I;"describe: ""d√©cor""";
+C10;;;;;;;A10;;HdA;;CO;negation: another sentence;
+C10;;;;;;;A10;;HdA;;CO;"affirmation: ""oui""";
+C10;;;;;;;A10;;;;NR;clarification: sentence;
+C10;;;;;;;A10;;HdA;;;;
+C10;;;;;;;A10;HA;;;NR;clarification: sentence;
+C10;;;;;;;A10;;HdA;;NR;clarification: sentence;
+C10;HC;;;D;indicate: no speech;no speech;A10;;;;;;
+C10;;;;;;;A10;;HdA;;CO;"negation: ""ah non""";
+C10;;;;;;;A10;;HdA;;NR;"negation: ""non""";
+C10;HC;;;I;"describe: ""en general?""";word;A10;;;;;;
+C10;;;;;;;A10;HA;;;D;"indicate: ""ouais""";
+C10;;;;;;;A10;;HdA;;NR;give turn: end of sentence;
+C10;;;;;;;A10;;HdA;;NR;clarification: sentence;
+C10;;HdC;;CO;"negation: ""non""";word;A10;;;;;;
+C10;;HdC;;CO;"negation: ""non""";word;A10;;;;;;
+C10;;HdC;;CO;negation: another sentence;other;A10;;;;;;
+C10;;;;;;;A10;HA;;;CO;counting: another wentence;
+C10;;;;NR;;;A10;HA;;;I;"describe: ""repr√©sente qqch""";
+C10;;;;;;;A10;;HdA;;NR;exclamation: no speech;
+C10;;;;;;;A10;;HdA;;NR;givinf turn: end of sentence;
+C10;;;;;;;A10;HA;;;I;"describe: ""cette pi√®ce""";
+C10;HC;;;NR;clarification: sentence;sentence;A10;;;;;;
+C10;;;;;;;A10;;HdA;;NR;clarification: sentence;
+C10;;;;;;;A10;;HdA;;NR;giving turn: end of sentence;
+C10;;;;;;;A10;;HdA;;NR;exclamation: no speech;
+C10;;;;;;;A10;;HdA;;NR;clarification: sentence;
+C10;;;;;;;A10;HA;;;CO;counting: another sentence;
+C10;;;;;;;A10;;HdA;;NR;give turn: end of sentence;
+C10;;;;;;;A10;;HdA;;CO;"affirmation: ""oui""";
+C10;;;;;;;A10;;HdA;;NR;clarification: sentence;
+C10;;;;;;;A10;;;BA;NR;clarification: sentence;
+C10;;;;;;;A10;;HdA;;NR;clarification: sentence;
+C10;;HdC;;NR;clarification: sentence;sentence;A10;;;;;;
+C10;HC;;;NR;keeping turn: vocalisation;vocal;A10;;;;;;
+C10;;;;;;;A10;;HdA;;CO;"negation: ""non""";
+C10;;;;;;;A10;;HdA;;NR;clarification: sentence;
+C10;;;;;;;A10;;HdA;;NR;clarification: sentence;
+C10;;;;;;;A10;;HdA;;NR;give turn: end of sentence;
+C10;;;;;;;A10;;HdA;;NR;clarification: sentence;
+C10;;;;;;;A10;;HdA;;NR;clarification: sentence;
+C10;;;;;;;A10;;HdA;;NR;clarification: sentence;
+C10;;;;;;;A10;;HdA;;CO;"negation: ""non""";
+C10;;;;;;;A10;;HdA;;NR;clarification: sentence;
+C10;HC;;;NR;clarification: sentence;sentence;A10;;;;;;
+C10;HC;;;D;"indicate: ""derier""";word;A10;;;;;;
+C10;;;;;;;A10;;HdA;;CO;"negation: ""non""";
+C10;;;;;;;A10;;;BA;NR;clarification: sentence;
+C10;;;;;;;A10;;HdA;;NR;clarification: sentence;
+C10;;;;;;;A10;;;BA;NR;clarification: sentence;
+C10;;;;;;;A10;;;BA;NR;clarification: sentence;
+C10;;;;;;;A10;HA;;;NR;clarification: sentence;
+C10;;;;;;;A10;;HdA;;;;
+C10;;;;;;;A10;;;;NR;clarification: sentence;
+C10;;;;;;;A10;;HdA;;NR;clarification: sentence;
+C10;;;;;;;A10;;HdA;;NR;exclamation: sentence;
+C10;;;;;;;A10;;HdA;;CO;affirmation: no speech;
+C10;;;;;;;A10;;HdA;;CO;negation: no speech;
+C10;;;;;;;A10;;HdA;;NR;clarification: sentence;
+C10;;;;;;;A10;;;;NR;clarification: sentence;
+C10;;;;;;;A10;HA;;;;;
+C10;;;;;;;A10;;HdA;;NR;clarification: sentence;
+C10;;;;;;;A10;HA;;;I;"describe: ""comme √ßa""";
+C10;;;;;;;A10;HA;;;CO;"exclamation: ""merci""";
+C10;;;;;;;A10;;HdA;;CO;affirmation: no speech;
+C10;;;;;;;A10;;HdA;;NR;giving turn: no speech;
+C10;HC;;;D;"indicate: ""o√π est""";word;A10;;;;;;
+C10;HC;;;NR;take turn: no speech;no speech;A10;;;;;;
+C10;;;;;;;A10;HA;;;NR;clarification: sentence;
+C10;;;;;;;A10;;HdA;;NR;clarificiation: sentence;
+C10;;;;;;;A10;HA;;;NR;clarification: sentence;
+C10;;;;;;;A10;;HdA;;NR;give turn: end of sentence;
+C10;;HdC;;CO;"affirmation: ""ouais""";word;A10;;;;;;
+C10;;;;;;;A10;;HdA;;NR;clarification: sentence;
+C10;;HdC;;CO;affirmation: no speech;no speech;A10;;;;;;
+C10;;HdC;;CO;"negation ""non""";word;A10;;;;;;
+C10;;;;;;;A10;;HdA;;NR;clarification: sentence;
+C10;;HdC;;NR;clarification: sentence;sentence;A10;;;;;;
+C10;;;;;;;A10;;HdA;;NR;clarification: sentence;
+C10;;;;;;;A10;;HdA;;NR;clarification: sentence;
+C10;;HdC;;CO;"affirmation: ""oui""";word;A10;;;;;;
+C10;;HdC;;CO;"affirmation: ""oui""";word;A10;;;;;;
+C10;;;;;;;A10;;HdA;;NR;clarification: sentence;
+C10;;;;;;;A10;;HdA;;NR;clarification: sentence;
+C10;;;BC;NR;exclamation: vocalisation;vocal;A10;;;;;;
+C10;HC;;;NR;exclamation: vocalisation;vocal;A10;;;;;;
+C10;;;;;;;A10;;HdA;;NR;clarification: sentence;
+C10;;;;;;;A10;;HdA;;D;"indicate: ""l'√©cran""";
+C10;;;;;;;A10;HA;;;D;"indicate: 'l'√©cran""";
+C10;;HdC;;CO;"negation: ""non""";word;A10;;;;;;
+C10;;;;;;;A10;;HdA;;NR;reflecting: vocalisation;
+C10;;HdC;;NR;giving tunr: end of sentence;end;A10;;;;;;
+C10;;;;;;;A10;HA;;;D;"indicate: ""le ...""";
+C10;HC;;;D;"indicate: 'l√†""";word;A10;;;;;;
+C10;;HdC;;NR;clarification: sentence;sentence;A10;;;;;;
+C10;;;;;;;A10;;HdA;;CO;affirmation: another sentence;
+C10;;;;;;;A10;;HdA;;NR;"clarification: ""c'est vrai'";
+C10;HC;;;I;describe: no speech;no speech;A10;;;;;;
+C10;;;;;;;A10;;HdA;;NR;give turn: sentence;
+C10;;HdC;;NR;giving turn: end of sentence;end;A10;;;;;;
+C10;;;;;;;A10;;HdA;;NR;"affirmation: ""oui""";
+C10;;;;;;;A10;;;;NR;clarification: sentence;
+C10;;;;;;;A10;;HdA;;;;
+C10;;;;;;;A10;HA;;;NR;clarification: sentence;
+C10;;HdC;;NR;reflecting: no speech;no speech;A10;;;;;;
+C10;;;;;;;A10;HA;;;I;"describe: ""represente""";
+C10;;;;;;;A10;HA;;;I;"describe: ""plat""";
+C10;;;;;;;A10;HA;;;I;"escribe: ""carr√©""";
+C10;;;;;;;A10;;HdA;;NR;reflecting: no speech;
+C10;;HdC;;NR;giving turn: end of sentence;end;A10;;;;;;
+C10;HC;;;D;indicate: another sentence;other;A10;;;;;;
+C10;;;;;;;A10;;HdA;;CO;"negation: ""non""";
+C10;;;;;;;A10;;HdA;;NR;clarification: sentence;
+C10;;;;;;;A10;;HdA;;CO;"negation: ""non""";
+C10;;;;;;;A10;;HdA;;NR;reflecting: vocalisation;
+C10;;;;;;;A10;;HdA;;CO;"affirmation: ""ouais""";
+C10;;;;;;;A10;;HdA;;NR;give turn: end of sentence;
+C10;;;;;;;A10;;HdA;;NR;give turn: end of sentence;
+C10;;HdC;;CO;"affirmation: ""oui""";word;A10;;;;;;
+C10;HC;;;I;"describe: ""fabriqu√©""";word;A10;;;;;;
+C10;;;;;;;A10;;HdA;;NR;"reflecting: ""fabriqu√©""";
+C10;;HdC;;NR;give turn: end of sentence;end;A10;;;;;;
+C10;;;;;;;A10;;HdA;;NR;give turn: end of sentence;
+C10;;HdC;;NR;clarification: sentence;sentence;A10;;;;;;
+C10;;HdC;;CO;"negation: ""non""";word;A10;;;;;;
+C10;;;;;;;A10;;HdA;;NR;reflecting: vocalisation;
+C10;;;;;;;A10;;HdA;;NR;exclamation: no speech;
+C10;;;;;;;A10;;HdA;;NR;exclamation: no speech;
+C10;;;;;;;A10;;HdA;;NR;clarification: sentence;
+C10;;;;;;;A10;;HdA;;NR;give turn: end of sentence;
+C10;HC;;;NR;clarification: sentence;sentence;A10;;;;;;
+C10;HC;;;D;";indiate: ""manteau""";word;A10;;;;;;
+C10;;;;;;;A10;;HdA;;NR;give turn: end of sentence;
+C10;;;;;;;A10;;HdA;;NR;exclamation: no speech;
+C10;;;;;;;A10;;HdA;;NR;exclamaiton: no speech+laughter;
+C10;;;;;;;A10;;HdA;;NR;reflecting: vocalisation;
+C10;;;;;;;A10;;HdA;;NR;clarification: speech;
+C10;;;;;;;A10;HA;;;I;"describe: ""sur les √©paules""";
+C10;;;;;;;A10;;HdA;;CO;"negation: ""non""";
+C10;;HdC;;NR;clarification: sentence;sentence;A10;;;;;;
+C10;;;;;;;A10;;HdA;;NR;"clarification: ""tout √† fait""";
+C10;;HdC;;NR;exclamation: sentence;sentence;A10;;;;;;
+C10;HC;;;NR;keep turn: sentence;sentence;A10;;;;;;
+C10;;;;;;;A10;;HdA;;CO;"affirmation: ""oui""";
+C10;;;;;;;A10;;HdA;;NR;reflecting: vocalisation;
+C10;;;;;;;A10;;HdA;;CO;"negation: ""non""";
+C10;;;;;;;A10;;HdA;;NR;clarification: sentence;
+C10;;;;;;;A10;HA;;;I;describe: no speech;
+C10;;HdC;;NR;clarification: sentence;sentence;A10;;;;;;
+C10;;;;;;;A10;;HdA;;NR;clarification: sentence;
+C10;;;;;;;A10;;HdA;;NR;clarification: sentence;
+C10;;;;;;;A10;;HdA;;NR;clarification: sentence;
+C10;;;;;;;A10;;HdA;;CO;"affirmation: ""ouais""";
+C10;;;;;;;A10;HA;;;D;"indicate: ""toi""";
+C10;;HdC;;CO;affirmation: no speech;no speech;A10;;;;;;
+C10;;;;;;;A10;HA;;;D;"indicate: ""donc on a..""";
+C10;;;;;;;A10;;HdA;;NR;reflecting: sentence;
+C10;;;;;;;A10;HA;;;D;"indicate: ""on peut...""";
+C10;;HdC;;CO;affirmation: no speech;no speech;A10;;;;;;
+C10;;;;;;;A10;HA;;;D;"indicate: ""c'est moi""";
+C10;;;;;;;A10;;HdA;;CO;"affirmation: ""ouais""";
+C10;;;;;;;A10;;HdA;;NR;clarification: sentence;
+C10;;;;;;;A10;;HdA;;NR;clarification: sentence;
+C10;;;;;;;A10;;HdA;;NR;reflecting: sentence;
+C10;;HdC;;NR;reflecting: no speech;no speech;A10;;;;;;
+C10;HC;;;I;"describe: ""moyennement""";word;A10;;;;;;
+C10;;;;;;;A10;;HdA;;NR;clarification: sentence;
+C10;;;;;;;A10;HA;;;I;"describe: ""ingr√©dient""";
+C10;;;;;;;A10;;HdA;;NR;reflecting: no speech;
+C10;;;;;;;A10;;HdA;;NR;clarification: sentence;
+C10;;HdC;;CO;"negation: ""non""";word;A10;;;;;;
+C10;;HdC;;CO;"negation: ""non""";word;A10;;;;;;
+C10;HC;;;NR;clarification: sentence;sentence;A10;;;;;;
+C10;;HdC;;CO;negation: another sentence;other;A10;;;;;;
+C10;;;;;;;A10;;HdA;;NR;give turn: end of sentence;
+C10;;HdC;;CO;"negation: ""non""";word;A10;;;;;;
+C10;;;;;;;A10;HA;;;NR;clarification: sentence;
+C10;;;;;;;A10;HA;;;I;"describe: ""le ravioli""";
+C10;;;;;;;A10;HA;;;NR;give turn: end of sentence;
+C10;;;;;;;A10;;;;;;
+C10;;;;;;;A10;HA;;;NR;give turn: end of sentence;
+C10;;;;;;;A10;HA;;;I;"describe: ""referme""";
+C10;;;;;;;A10;HA;;;I;"describe: dedan""";
+C10;;HdC;;CO;negation: no speech;no speech;A10;;;;;;
+C10;;;;;;;A10;;HdA;;NR;exclamation: sentence;
+C10;HC;;;I;describe: no speech;no speech;A10;;;;;;
+C10;;;;;;;A10;;HdA;;NR;clarification: sentence;
+C10;HC;;;I;"describe: ""peut avoir""";word;A10;;;;;;
+C10;;HdC;;NR;clarification: sentence;sentence;A10;;;;;;
+C10;;HdC;;NR;clarification: sentence;sentence;A10;;;;;;
+C10;HC;;;NR;clarification: sentence;sentence;A10;;;;;;
+C10;;;;;;;A10;;;;;;
+C10;;HdC;;NR;giving turn: end of sentence;end;A10;;;;;;
+C10;HC;;;I;"describe: ""de truc""";word;A10;;;;;;
+C10;;;;;;;A10;;HdA;;NR;exclamation: no speech;
+C10;;;;;;;A10;HA;;;D;give turn: end of sentence;
+C10;;;;;;;A10;;HdA;;NR;reflecting: sentence;
+C10;HC;;;I;"describe: ""c'est grand""";word;A10;;;;;;
+C10;;;;;;;A10;;HdA;;NR;reflecting: vocalisation;
+C10;;;;;;;A10;;HdA;;NR;confirmation: sentence;
+C10;;;;;;;A10;HA;;;NR;give turn: end of sentence;
+C10;HC;;;NR;keep turn: no speech;no speech;A10;;;;;;
+C10;HC;;;NR;waiting for turn: no speech;no speech;A10;;;;;;
+C10;;;;;;;A10;;HdA;;CO;negation: vocalistion;
+C10;;;;;;;A10;HA;;;NR;exclamation: sentence;
+C10;;HdC;;NR;give turn: end of sentnece;end;A10;;;;;;
+C10;HC;;;I;"describe: ""une tarte""";word;A10;;;;;;
+C10;;;;;;;A10;;;;;;
+C10;HC;;;I;"describe: ""il y a""";word;A10;;;;;;
+C10;HC;;;I;"describe: ""au debut""";word;A10;;;;;;
+C10;;HdC;;NR;give turn: end of sentence;end;A10;;;;;;
+C10;;;;;;;A10;;HdA;;CO;"affirmation: ""ouais""";
+C10;HC;;;NR;clarification: sentence;sentence;A10;;;;;;
+C10;;;;;;;A10;HA;;;NR;give turn: end of sentence;
+C10;HC;;;CO;exclamation: vocalisation;vocal;A10;;;;;;
+C10;;;;;;;A10;HA;;;NR;exclamation: no speech+laughter;
+C10;;;;;;;A10;;HdA;;NR;clarification: sentence;
