@@ -47,4 +47,10 @@ gesture profiles between child-parent pairs, while the profiles are quite simila
 5.
 <img width="454" height="288" alt="image" src="https://github.com/user-attachments/assets/376a3c34-13f6-472e-9783-e52ca4eb7a24" />
 
-What is striking here is the higher use of non-referential gestures either with sentence or at the end of sentences in adults than in children. Perhaps these pragmatic gestures are increasing with age, especially becoming more salient in cases of giving turns (using gestures at the end). Similarly, association of conventional gestures and words are higher in adults than in the children. Interestingly, children use all gesture types in isolation (no speech condition), higher than by adults. Thus, the gesture-vocal alignment is perhaps still developing at this stage. It is also noticeable that the adults are capable of using gestures to add complementary information to their speech (other condition) more than the children could.
+What is striking here is the higher use of non-referential gestures either with sentence or at the end of sentences in adults than in children. Perhaps these pragmatic gestures are increasing with age, especially becoming more salient in cases of giving 
+
+{This project was done in collaboration with Enrique Bustamante (master's dissertation, 2025) and Abdellah Fourtassi,  Aix-Marseille Université}
+
+
+
+turns (using gestures at the end). Similarly, association of conventional gestures and words are higher in adults than in the children. Interestingly, children use all gesture types in isolation (no speech condition), higher than by adults. Thus, the gesture-vocal alignment is perhaps still developing at this stage. It is also noticeable that the adults are capable of using gestures to add complementary information to their speech (other condition) more than the children could.
