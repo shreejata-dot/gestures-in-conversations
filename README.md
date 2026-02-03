@@ -1,5 +1,6 @@
 # gestures-in-conversations
 This repository provides an data and R-scripts for an ongoing project examining the role of co-speech gestures in conversation coordination between adults and children (7- to 11-yo).
+
 Collaborators: Enrique Bastamante, Abdellah Fourtassi, Isabelle Dautriche
 
 The main objective of this project is to compare the different co-speech gesture types used by children and their parents during conversation (word guessing game).
