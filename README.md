@@ -1,5 +1,6 @@
 # gestures-in-conversations
 This repository provides an data and R-scripts for an ongoing project examining the role of co-speech gestures in conversation coordination between adults and children (7- to 11-yo).
+Collaborators: Enrique Bastamante, Abdellah Fourtassi, Isabelle Dautriche
 
 The main objective of this project is to compare the different co-speech gesture types used by children and their parents during conversation (word guessing game).
 
@@ -49,5 +50,3 @@ gesture profiles between child-parent pairs, while the profiles are quite simila
 
 What is striking here is the higher use of non-referential gestures either with sentence or at the end of sentences in adults than in children. Perhaps these pragmatic gestures are increasing with age, especially becoming more salient in cases of giving turns (using gestures at the end). Similarly, association of conventional gestures and words are higher in adults than in the children. Interestingly, children use all gesture types in isolation (no speech condition), higher than by adults. Thus, the gesture-vocal alignment is perhaps still developing at this stage. It is also noticeable that the adults are capable of using gestures to add complementary information to their speech (other condition) more than the children could.
 
-
-{This project was done in collaboration with Enrique Bustamante (master's dissertation, 2025) and Abdellah Fourtassi,  Aix-Marseille Université}
